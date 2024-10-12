@@ -1,0 +1,224 @@
+{
+    "1": {
+        "text": "1 Scope This Standard applies to vehicle of Category M1 as per [1]."
+    },
+    "2": {
+        "text": "2Terms and definitions The following terms with their respective definitions are used for the purposes of this Standard:",
+        "2.1": {
+            "text": "2.1 automatic windscreen wiper system: Wiper system that operates while the engine of the vehicle is on and requires no driver's actions other than switching it on and off"
+        },
+        "2.2": {
+            "text": "2.2 wiping zone: Such area of the outer surface of the windscreen that comes into contact with the wiper blade when it is moving over the wet glass No t e — The area passed by the blade in the stopped (parking) position does not belong to the wiping zone."
+        },
+        "2.3": {
+            "text": "2.3 washing liquid: Liquid used in the washer system, basically, water, with special additives where required"
+        },
+        "2.4": {
+            "text": "2.4 pump: Device used to supply washing liquid from the tank through the washer system onto the windscreen surface"
+        },
+        "2.5": {
+            "text": "2.5 control member of windscreen washer system: Device or gear used to switch on and off the windscreen washer system"
+        },
+        "2.6": {
+            "text": "2.6 intermittent duty: Automatic operation of the windscreen wiper system that is not continuous but consists of cycles each ending by a certain time interval when the wiper blades remain motionless in one of their stop positions specified by design"
+        },
+        "2.7": {
+            "text": "2.7 tank: Container used to store washing liquid in the windscreen washer system"
+        },
+        "2.8": {
+            "text": "2.8 windscreen washer system: System including a device for storage of washing liquid and for applying that liquid onto the windscreen surface No t e — Switching on and off may be synchronised with the windscreen wiper system, or independent of its operations"
+        },
+        "2.9": {
+            "text": "2.9 windscreen wiper system: System including a device used to wipe the outer surface of the windscreen, and providing additional tools and controls used to activate and stop that device"
+        },
+        "2.10": {
+            "text": "2.10 nozzle: Device that directs washing liquid onto the windscreen surface       Official Edition"
+        },
+        "2.11": {
+            "text": "2.11 wiping cycle: Movements of the wiper blade that are required to complete one travel of the wiper and to return it to its initial position in the windscreen wiper system"
+        },
+        "2.12": {
+            "text": "2.12 performance of windscreen washer system: System ability to supply liquid into the specified windscreen area with no leaks or disconnections of system pipes in the process of normal system operation No t e — Additional movement of the wiper blade to its stop (parking) position is not included in the wiping cycle."
+        },
+        "2.13": {
+            "text": "2.13 master switch of vehicle: Device used to switch the on-board electronic systems from their deactivated state where the vehicle is parked without the driver on board to their normal operating state, and vice versa No t e — The function of the master switch may be performed by an ignition lock or by a keyless access/startup system."
+        }
+    },
+    "3": {
+        "text": "3Technical requirements",
+        "3.1": {
+            "text": "3.1 Windscreen wiper system",
+            "3.1.1": {
+                "text": "3.1.1 Each vehicle shall be equipped with at least one automatic windscreen wiper system."
+            },
+            "3.1.2": {
+                "text": "3.1.2 The area of the wiping zone shall not be less than 80 % of zone B and not less than 98 % of zone A where the size and dimensions of the latter zones are defined in accordance with Appendix 18 of [2]."
+            },
+            "3.1.3": {
+                "text": "3.1.3 The windscreen wiping zone shall meet the minimum requirements of 3.1.2 when the wiper is tested at the movement rates conforming to 3.1.4.2 in the conditions described in 4.1.11."
+            },
+            "3.1.4": {
+                "text": "3.1.4 The wiper mechanism shall support at least two operating movement rates.",
+                "3.1.4.1": {
+                    "text": "3.1.4.1 The first rate: not less than 10 and not greater than 55 wiping cycles per minute."
+                },
+                "3.1.4.2": {
+                    "text": "3.1.4.2 The second rate: not less than 45 wiping cycles per minute."
+                }
+            },
+            "3.1.5": {
+                "text": "3.1.5 The difference between the highest rate and one of the slowest rates shall be at least 15 wiping cycles per minute."
+            },
+            "3.1.6": {
+                "text": "3.1.6 The rates specified in 3.1.4 should be checked in the conditions described in 4.1.1—4.1.6 and 4.1.8."
+            },
+            "3.1.7": {
+                "text": "3.1.7 The intermittent duty of the system may be used to meet the requirements of 3.1.4 upon the condition that one of the rates conforms to 3.1.4.1 and the other one obtained by interruption of the main rate is at least 10 wiping cycles per minute."
+            },
+            "3.1.8": {
+                "text": "3.1.8 After the windscreen wiper system is switched off using its control, the wiper levers and blades shall automatically return to the stopped (parking) position."
+            },
+            "3.1.9": {
+                "text": "3.1.9 The system shall withstand its forced blocking for 15 s. The use of automatic safety devices is permitted providing that the recovery of normal operation will not require activation of any controls other than the wiper control. The test conditions and test method are described in 5.1.7."
+            },
+            "3.1.10": {
+                "text": "3.1.10 Aerodynamic effects due to the windscreen size and dimensions possibly affecting the system performance should be evaluated in the following conditions.",
+                "3.1.10.1": {
+                    "text": "3.1.10.1 Under air flows moving at a speed equal to 80 % of the maximum vehicle speed or to 160 km/h, whichever is less, and the maximum wiper blade speed, the system shall wipe zone A as required in 3.1.2 with no performance degradation. Prior to testing, zone A of the windscreen is subject to treatment in accordance with 4.1.8 and 4.1.9. During the tests, the cleaning edge of the wiper blade(s) shall remain in contact with the windscreen. Full separation of the cleaning edge from the windscreen surface is prohibited. The cleaning edge of the wiper blade(s) shall remain in contact with the windscreen within the limits of zone A dimensions specified in 3.1.2 for each full wiping cycle. Any partial separation of the cleaning edge during either direct or reverse movements of the wiper blade is not permitted."
+                }
+            },
+            "3.1.11": {
+                "text": "3.1.11 If the lead or the cleaning edge(s) of the wiper blade(s) are outside zone B indicated in 3.1.2 in the stopped (parking) position, manual withdrawal of the blade aside from the windscreen surface shall be possible to enable manual wiping of the surface."
+            },
+            "3.1.12": {
+                "text": "3.1.12 The windscreen wiper system shall work without any decrease of its operating rate for 2 min when the windscreen is dry and the ambient air temperature is minus (18 + 3) °C. The respective test conditions are specified in 4.1.13."
+            }
+        },
+        "3.2": {
+            "text": "3.2 Windscreen washer system",
+            "3.2.1": {
+                "text": "3.2.1 Each vehicle shall be equipped with a windscreen washer system with its working state linked to activation of the master switch on the vehicle. The system shall withstand the conditions where the nozzles are blocked and where it operates as described in 4.2.1.2—4.2.1.5."
+            },
+            "3.2.2": {
+                "text": "3.2.2 The performance of the system shall not degrade under exposure to temperature cycles specified in 4.2.3 and 4.2.4."
+            },
+            "3.2.3": {
+                "text": "3.2.3 The windscreen washer system shall ensure that liquid is sprayed over the stated windscreen regions without any traces of leaks, pipe disconnections or malfunctions in normal operating conditions at ambient air temperatures from minus (18 ± 3) °C to 80 °C. In addition, no traces of leaks or disconnections of any pipes shall be observed in the system when the nozzles are blocked."
+            },
+            "3.2.4": {
+                "text": "3.2.4 The system shall supply liquid in quantities sufficient for wiping 60 % of zone A indicated in 3.1.2 in the conditions described in 4.2.5."
+            },
+            "3.2.5": {
+                "text": "3.2.5 The windscreen washer system shall switch on after manual activation of its control. Besides this, switching on and off of the system may be synchronised with any other system of the vehicle."
+            },
+            "3.2.6": {
+                "text": "3.2.6 The capacity of the tank for washing liquid shall not be less than 1 l."
+            }
+        }
+    },
+    "4": {
+        "text": "4Test methods",
+        "4.1": {
+            "text": "4.1 Windscreen wiper system",
+            "4.1.1": {
+                "text": "4.1.1 Unless otherwise specified, the tests are carried out in the conditions detailed in 4.1.2—4.1.5."
+            },
+            "4.1.2": {
+                "text": "4.1.2 The ambient air temperature shall be at least 5 °C and at most 40 °C."
+            },
+            "4.1.3": {
+                "text": "4.1.3 The windscreen surface shall always be wet."
+            },
+            "4.1.4": {
+                "text": "4.1.4 The following additional conditions shall hold for wipers with electric drives: - all accumulator batteries shall be fully charged; - if an internal combustion engine is used on the vehicle, the engine speed shall not exceed 30 % of its speed at the maximum power. However, if this condition will be proved inconsistent with the engine control strategy, for example, in the case of a hybrid vehicle with an electric drive, then the actual operating conditions shall be determined taking into account the engine speed range and periodic or complete engine shutdowns in normal driving mode. If the windscreen wiper system may ensure that the requirements are met with the engine stopped, the tests shall be carried out in these very conditions. - headlights shall be with lower beams on; - heating, ventilation, windscreen defrosting and windscreen demisting systems regardless of their location on the vehicle shall operate with the maximum consumption of electric power."
+            },
+            "4.1.5": {
+                "text": "4.1.5 Systems driven by compressed air or from the vacuum line shall operate continuously at the specified rates regardless of the engine speed, engine load or battery charge/discharge level."
+            },
+            "4.1.6": {
+                "text": "4.1.6 The operating rates of the wiper shall conform to 3.1.4 after its preliminary movement over a wet surface for 20 min."
+            },
+            "4.1.7": {
+                "text": "4.1.7 The requirements of 3.1.9 shall be met while the wiper lever is retained in the middle of the wiping cycle for 15 s and the wiper control is in the position corresponding to the highest rate."
+            },
+            "4.1.8": {
+                "text": "4.1.8 Prior to testing, the outer surface of the windscreen is completely degreased by wiping with ethyl alcohol or with equivalent chemical. After the windscreen is dried, its surface is wiped with ammonium water solution of concentration 3 % to 10 %. Then, the surface is left until its full drying again, and wiped with a cotton lint-free cloth after that."
+            },
+            "4.1.9": {
+                "text": "4.1.9 The outer surface of the windscreen is uniformly covered with the test mixture as described in Appendix A and left until it is completely dry."
+            },
+            "4.1.10": {
+                "text": "4.1.10 If the outer surface of the windscreen has been treated as per 4.1.8 and 4.1.9, the windscreen washer system may be used as appropriate for the test requirements. It shall be switched on no later than 1 h after full drying of the mixture."
+            },
+            "4.1.11": {
+                "text": "4.1.11 The wiping zone dimensions are determined as follows in accordance with 3.1.3: - the outer surface of the windscreen is treated as described in 4.1.8 and 4.1.9; - to determine if the requirements of 3.1.2 are observed, the wiper is switched on and, considering the conditions of 4.1.10, the outlines and areas of zones wiped by the wiper blades are compared with the dimensions of viewing zones A and B specified in 3.1.2."
+            },
+            "4.1.12": {
+                "text": "4.1.12 Subject to agreement with the testing laboratory, an alternative to the above procedure may involve presentation of computer simulation results including the results of calculations confirming that the requirements of 3.1.2 are satisfied."
+            },
+            "4.1.13": {
+                "text": "4.1.13 The requirements of 3.1.12 shall be met after the vehicle is held for at least 4 h at an ambient air temperature of minus (18 ± 3) °C. The wiper shall operate in the conditions specified in 4.1.4 and 4.1.5 with the control set to a position corresponding to the highest rate. No requirements in regard to the wiping zone are imposed in this case."
+            }
+        },
+        "4.2": {
+            "text": "4.2 Windscreen washer system",
+            "4.2.1": {
+                "text": "4.2.1 Test No. 1",
+                "4.2.1.1": {
+                    "text": "4.2.1.1 The washer system is completely filled with water, pumped until all pipes and nozzles are filled, and kept for at least 4 h at an ambient air temperature of (20 ± 2) °C."
+                },
+                "4.2.1.2": {
+                    "text": "4.2.1.2 All nozzles are blocked; then, the washer system control is activated six times during 1 min so that each activation lasts not less than 3 s."
+                },
+                "4.2.1.3": {
+                    "text": "4.2.1.3 If the washer system is activated by the muscular energy of the driver, the applied force shall be from 11.0 to 13.5 daN for a hand drive and from 40.0 to 44.5 daN for a foot drive."
+                },
+                "4.2.1.4": {
+                    "text": "4.2.1.4 The test voltage for electric pumps shall not be less than the nominal preset voltage but shall not exceed it by more than 2 V."
+                },
+                "4.2.1.5": {
+                    "text": "4.2.1.5 The performance of the washer system after the test shall conform to 3.2.3."
+                }
+            },
+            "4.2.2": {
+                "text": "4.2.2 Test No. 2 The washer system is completely filled with water, pumped until all pipes and nozzles are filled, and kept for at least 4 h at an ambient air temperature of minus (18 ± 3) °C. Stabilisation of the whole volume of water is not required at this temperature. The washer system control is activated six times during 1 min so that each activation lasts not less than 3 s. Then, the system is kept at an ambient air temperature of (20 ± 2) °C until the ice melts completely. Stabilisation of the whole volume of water is not required at this temperature. After that, the performance of the washer system is checked by activating the system in accordance with 4.2.1.2—4.2.1.5."
+            },
+            "4.2.3": {
+                "text": "4.2.3 Test No. 3 (after exposure to low temperature)",
+                "4.2.3.1": {
+                    "text": "4.2.3.1 The washer system is completely filled with water, pumped until all pipes and nozzles are filled, and kept for at least 4 h at an ambient air temperature of minus (18 ± 3) °C to ensure that the whole volume of water is frozen. Then, the washer system is kept at an ambient air temperature of (20 ± 2) °C until all ice melts but for at least 4 h in any case. This cycle is repeated six times. After the sequence of cycles is completed, when the washer system is placed under conditions with an ambient temperature of (20 ± 2) °C and all ice is melted (stabilization of the whole volume of water is not required at this temperature), the performance of the washer system is checked by activating the system in accordance with 4.2.1.2—4.2.1.5."
+                },
+                "4.2.3.2": {
+                    "text": "4.2.3.2 The washer system is completely charged and pumped until all pipes and nozzles are filled with low-freezing liquid consisting of 50 % of ethyl or isopropyl alcohol mixed with water of hardness not exceeding 205 mg/dm3 (Ca). Then, the washer system is held for at least 4 h in conditions with an ambient air temperature of minus (18 ± 3) °C. Stabilisation of the whole volume of water is not required at this temperature. After that, the performance of the washer system is checked by activating the system in accordance with 4.2.1.2—4.2.1.5."
+                }
+            },
+            "4.2.4": {
+                "text": "4.2.4 Test No. 4 (after exposure to high temperature)",
+                "4.2.4.1": {
+                    "text": "4.2.4.1 If all component parts of the washer system are located in the engine compartment, the system is completely filled with water, pumped until all pipes and nozzles are filled, and held for at least 8 h in conditions with an ambient air temperature of (80 ± 3) °C. Stabilisation of the whole volume of water is not required at this temperature. After that, the performance of the washer system is checked by activating the system in accordance with 4.2.1.2—4.2.1.5."
+                },
+                "4.2.4.2": {
+                    "text": "4.2.4.2 If no component parts of the washer system are located in the engine compartment, the system is completely filled with water, pumped until all pipes and nozzles are filled, and held for at least 8 h in conditions with an ambient air temperature of (80 ± 3) °C. Then, the washer system is placed under conditions with an ambient temperature of (20 ± 2) °C. After the water temperature is stabilised, the performance of the washer system is checked by activating the system in accordance with 4.2.1.2—4.2.1.5. Then, the washer system is completely filled with water, pumped until all pipes and nozzles are filled, and held for at least 8 h in conditions with an ambient air temperature of (60 ± 3) °C. Stabilisation of the whole volume of water is not required at this temperature. After that, the wiper performance shall be checked by activating it in accordance with 4.2.1.2—4.2.1.5. At the manufacturer's request, the tests as per 4.4.2.1 are carried out as an alternative."
+                }
+            },
+            "4.2.5": {
+                "text": "4.2.5 Test No. 5 (supply of liquid in accordance with 3.2.4)",
+                "4.2.5.1": {
+                    "text": "4.2.5.1 The washer system is completely filled with water and pumped until all pipes and nozzles are filled. With the vehicle motionless and no noticeable wind effects observed, the washer nozzle(s) are adjusted in the direction of the specified zone on the outer surface of the windscreen."
+                },
+                "4.2.5.2": {
+                    "text": "4.2.5.2 The outer surface of the windscreen is subjected to treatment described in 4.1.8 and 4.1.9."
+                },
+                "4.2.5.3": {
+                    "text": "4.2.5.3 The washer system is activated using the method specified by the manufacturer and taking into account the requirements of 4.2.1.3 and 4.2.1.4. At most ten full cycles of automatic operation of the wiper system at the highest rate are completed for the whole duration of the test."
+                },
+                "4.2.5.4": {
+                    "text": "4.2.5.4 To check that the requirements of 3.2.4 are met, the completeness of wiping is assessed for the normative zone A specified in 3.1.2. If the requirements are readily seen to be met, marking of this zone is not necessary."
+                }
+            }
+        },
+        "4.3": {
+            "text": "4.3 All tests of the windscreen washer system that are described in 4.2.5 shall be performed for the same sample of the washer system installed on the vehicle. The test result is valid for the vehicle where the respective windscreen washer system is installed.    A.1 The test mixture mentioned in 4.1.9 shall contain the following ingredients measured in volume fractions: - 92.5 % of water (of hardness not exceeding 205 mg/dm3 (Ca); - 5 % of saturated salt (sodium chloride) solution; - 2.5 % of dust, with its composition defined in Tables A.1 and A.2. Ta b l e A.1 — Composition of test mixture   Dust ingredientsMass fraction of ingredients, %   From 67 to 69 incl.  » 3 » 5 »  » 15 » 17 »  CaO» 2 » 4 »   MgO» 0.5 » 1.5 »   Alkali» 3 » 5 »   Ash» 2 » 3 »  Ta b l e A.2 — Particle size distribution in dust   Particle size, μmRelative fraction of particles, %    From 0 to 5 incl.12 ± 2   » 5 » 10 »12 ± 3   » 10 » 20 »14 ± 3   » 20 » 40 »23 ± 3   » 40 » 80 »30 ± 3   » 80 » 200 »9 ± 3   A.2 Method of application of test mixture A.2.1 The outer surface of the windscreen is completely degreased by wiping with ethyl alcohol or equivalent chemical. After the windscreen dries, its surface is wiped with ammonium solution of concentration 3 % to 10 %. Then, the surface is left until its full drying again, and wiped with a cotton lint-free cloth after that. A.2.2 The newly prepared mixture is shaken, uniformly applied using a sprayer in an amount of 1.5 mg/cm2 ± 20 %, and let it dry out. A.2.3 The quantity and uniformity of application is determined by weighting of the test samples. Prior to weighting, powder removal is recommended by scraping from all zones other than the ones on the top surface part of the reference regions. A.2.4 Three reference regions are required for windscreens of the surface area up to 0.5 m2 and five regions if this area is greater than 0.5 m2. Regions shall be evenly spaced over the glass surface outside the wiping zone, including the parking positions, and shall be as close as possible to the wiping zone. A.2.5 The reference regions shall be at least 1 mm thick and at least 8 cm2 in their surface area (using specimen glasses is recommended). A.2.6 As agreed with the vehicle manufacturer, the interior heating system of the vehicle or any external system may be used to increase the temperature so as to reduce the drying time after application of the mixture and the start of the test. However, it should be noted that the use of excessive heat may affect the test results.  If artificial drying is in use, achieving the dryness equivalent to the one for natural drying methods is recommended. In this case, heating the glass above 40 °C is not advised. During the tests, the vehicle shall be at an ambient air temperature (from 10 °C to 40 °C). A.2.7 Application by other methods Other methods may be used for application of the test mixture provided that the requirement of A.2.2 is observed.  [1] ECE/TRANS/WP.29/78/Rev.2/Amend.3Consolidated Resolution on the Construction of [2] E/ECE/324/Rev.2/...   UDC 629.114.011.673:006.354ICS 43.040.60 Keywords: passenger motor cars, windscreen, wiper system, washer system, wiping zone, tests"
+        }
+    }
+}
