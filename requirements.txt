@@ -1,0 +1,12 @@
+streamlit
+pypandoc
+tqdm
+pathlib
+pdfquery
+pdfquery
+tqdm
+pathlib
+requests
+pypandoc
+sentence_transformers
+thefuzz
