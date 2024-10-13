@@ -1,0 +1,70 @@
+I-25078
+
+OC Subsection: [F-3688] New OC Subsection: 06 Driving / Braking Systems
+
+Description:
+
+↵
+
+Title: Disengaging Auto Vehicle Hold
+
+Goal: Disengagingof auto vheicle hold
+
+Scope:
+
+-   Brake and Aceleration pedals
+
+-   EPB
+
+-   Gear selector
+
+-   Doors
+
+-   Seat buckles
+
+Actor: Driver
+
+Preconditions:
+
+AVH has been engaged
+
+Triggers:
+
+-   The driver presses the accelerator pedal in_22
+
+-   Press brake pedal in_23
+
+-   Gear is shifted to R via in_9 or in_2
+
+-   Gear is shifted to P via in_9 or in_2
+
+-   Gear is shifted to N via in_9 or in_2
+
+-   Vehicle stay engaged in AVH for 10 minutes
+
+-   Driver's exit Vehicle - unbuckle the seat belt and open the door
+
+Requirements:
+
+-   If the driver's exit vehicle - unbuckles the seat belt and opens the
+    door, the EV is automatically shuffled to Park after AVH disengaged
+    [LOOKS LIKE SEPARATE UC #6225]
+
+-   AVH setting is part of User Profile AVH is available only if One
+    Pedal mode is disabled
+
+-   display AVH state (disengaged) on out_2
+
+Priority: Normal
+
+Type: Use Case CF
+
+Document
+
+Caption: operational_concept.Profile - 383201 Profiles settings
+
+Overall estimation:
+
+Requirement type: Profile
+
+Type: Profile

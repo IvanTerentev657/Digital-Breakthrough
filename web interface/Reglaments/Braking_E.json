@@ -1,0 +1,1076 @@
+{
+    "1": {
+        "text": "1. General verification with respect to the safety aspects of Complex Electronic Vehicle Control Systems (definition 2.3. below) as far as this Regulation is concerned. safety related functions which are controlled by electronic system(s). the methodology applied to the design process and the information which shall be disclosed to the Technical Service, for type approval purposes. fault conditions, all the appropriate performance requirements specified elsewhere in this Regulation.",
+        "1.1": {
+            "text": "1.1. The procedure described in this annex may be applied in the event of a modification of vehicle type resulting from the fitting of brake linings of another type to vehicles which have been approved in accordance with this Regulation.",
+            "1.1.1": {
+                "text": "1.1.1. The maximum value of the curve will represent kpeak and the value at 100 per cent slip will represent klock ."
+            },
+            "1.1.2": {
+                "text": "1.1.2. The ratio R shall be determined as the quotient of the kpeak and klock. lock"
+            },
+            "1.1.3": {
+                "text": "1.1.3. The value of R shall be rounded to one decimal place. The surface to be used shall have a ratio R between 1.0 and 2.0.1 1.1.4.",
+                "1.1.3.1": {
+                    "text": "1.1.3.1. Wheel lock may occur below 20 km/h."
+                },
+                "1.1.3.2": {
+                    "text": "1.1.3.2. Starting from the minimum measured value of t, called tmin , then select three values of t comprised within tmin and 1.05 tmin and calculate their arithmetical mean value tm , cannot be obtained, then the minimum time tmin may be utilized. However, the requirements of paragraph 1.3. shall still apply."
+                }
+            },
+            "1.1.4": {
+                "text": "1.1.4. The braking forces shall be calculated from the measured braking rate and the rolling resistance of the unbraked axle which is equal to 0.015 and 0.010 of the static axle load for a driven axle and a non-driven axle, respectively."
+            },
+            "1.1.5": {
+                "text": "1.1.5. The dynamic load on the axle shall be that given by the formulae in Annex 5 to this Regulation."
+            },
+            "1.1.6": {
+                "text": "1.1.6. The value of k shall be rounded to three decimal places."
+            },
+            "1.1.7": {
+                "text": "1.1.7. Then, the test will be repeated for the other axle(s) as defined in paragraphs 1.1.1. to 1.1.6. above."
+            },
+            "1.1.8": {
+                "text": "1.1.8. For example, in the case of a two-axle rear-wheel drive vehicle, with the front axle (1) being braked, the coefficient of adhesion (k) is given by: -g•P•z 0.015F"
+            },
+            "1.1.9": {
+                "text": "1.1.9. One coefficient will be determined for the front axle kf and one for the rear axle kr."
+            }
+        },
+        "1.2": {
+            "text": "1.2. The alternative types of brake linings shall be checked by comparing their performance with that obtained from the brake linings with which the vehicle was equipped at the time of approval and conforming to the components identified in the relevant information document, a model of which is given in Annex 1 to this Regulation.",
+            "1.2.1": {
+                "text": "1.2.1. The adhesion utilized () is defined as the quotient of the maximum braking rate with the anti-lock system operative (zAL) and the coefficient of adhesion ( kM ) i.e.,"
+            },
+            "1.2.2": {
+                "text": "1.2.2. From an initial vehicle speed of 55 km/h, the maximum braking rate (zAL) shall be measured with full cycling of the anti-lock braking system and based on the average value of three tests, as in paragraph 1.1.3. of this appendix, using the time taken for the speed to reduce from 45 km/h to 15 km/h, according to the following formula:",
+                "1.2.2.1": {
+                    "text": "1.2.2.1. Testing shall commence at a pressure that may be specified by the manufacturer but is not higher than the cut-in pressure;1"
+                },
+                "1.2.2.2": {
+                    "text": "1.2.2.2. The energy storage device(s) shall not be fed; in addition, any energy storage device(s) for auxiliary equipment shall be isolated."
+                }
+            },
+            "1.2.3": {
+                "text": "1.2.3. The coefficient of adhesion kM shall be determined by weighting with the dynamic axle loads."
+            },
+            "1.2.4": {
+                "text": "1.2.4. The value of  shall be rounded to two decimal places."
+            },
+            "1.2.5": {
+                "text": "1.2.5. In the case of a vehicle equipped with an anti-lock system of categories 1 or 2, the value of zAL will be based on the whole vehicle, with the anti-lock system in operation, and the adhesion utilized () is given by the same formula quoted in paragraph 1.2.1. of this appendix."
+            },
+            "1.2.6": {
+                "text": "1.2.6. In the case of a vehicle equipped with an anti-lock system of category 3, the value of zAL will be measured on each axle which has at least one directly controlled wheel. For example, for a two-axle rear-wheel drive vehicle with an anti-lock system acting only on the rear axle (2), the adhesion utilized () is given by: 2 2 AL controlled wheel."
+            },
+            "1.2.7": {
+                "text": "1.2.7. The prescribed performance shall be obtained without locking of the wheels at speeds exceeding 15 km/h, without deviation of the vehicle from a 3.5 m wide lane, without exceeding a yaw angle of 15° and without abnormal vibrations;"
+            },
+            "1.2.8": {
+                "text": "1.2.8. For vehicles powered completely or partially by an electric motor (or motors), permanently connected to the wheels, all tests shall be carried out with these motor(s) connected;"
+            },
+            "1.2.9": {
+                "text": "1.2.9. For vehicles as described in paragraph 1.2.8. above, fitted with an electric regenerative braking system of category A, behaviour tests shall be carried out on a track with a low adhesion coefficient (as defined in paragraph 5.2.2. of Annex 6) at a speed equal to 80 per cent of the maximum speed but not exceeding 120 km/h, to check that stability is retained.",
+                "1.2.9.1": {
+                    "text": "1.2.9.1. Moreover, for vehicles fitted with an electric regenerative braking system of category A, transient conditions as gear changes or accelerator control release shall not affect the behaviour of the vehicle in condition described in paragraph 1.2.9. above;"
+                }
+            },
+            "1.2.10": {
+                "text": "1.2.10. In the tests provided in paragraphs 1.2.9. and 1.2.9.1. above wheel locking is not allowed. However, steering correction is permitted if the angular rotation of the steering control is within 120° during the initial 2 seconds and not more than 240° in all;"
+            },
+            "1.2.11": {
+                "text": "1.2.11. For a vehicle with electrically actuated service brakes powered from traction batteries (or an auxiliary battery) which receive(s) energy only from an independent external charging system, these batteries shall, during braking performance testing, be at an average of not more than 5 per cent above that state of charge at which the brake failure warning prescribed in paragraph 5.2.20.5. of this Regulation is required to be given. tests, to keep them in the required state of charge range."
+            }
+        },
+        "1.3": {
+            "text": "1.3. The Type Approval Authority responsible for conducting approval tests may at its discretion require comparison of the performance of the brake linings to be carried out in accordance with the relevant provisions contained in Annex 3 to this Regulation.",
+            "1.3.1": {
+                "text": "1.3.1. After any single transmission failure it shall still be possible after eight full- stroke actuations of the service brake control, to achieve, at the ninth application, at least the performance prescribed for the secondary braking system."
+            },
+            "1.3.2": {
+                "text": "1.3.2. Testing shall be performed in conformity with the following requirements:",
+                "1.3.2.1": {
+                    "text": "1.3.2.1. With the energy source stationary or operating at a speed corresponding to the engine idling speed, any transmission failure may be induced. Before inducing such a failure, the energy storage device(s) shall be at a pressure that may be specified by the manufacturer but not exceeding the cut-in pressure;"
+                },
+                "1.3.2.2": {
+                    "text": "1.3.2.2. The auxiliary equipment and its energy storage devices, if any, shall be isolated."
+                }
+            }
+        },
+        "1.4": {
+            "text": "1.4. Application for approval by comparison shall be made by the vehicle manufacturer or by his duly accredited representative.",
+            "1.4.1": {
+                "text": "1.4.1. General",
+                "1.4.1.1": {
+                    "text": "1.4.1.1. The average temperature of the service brakes on the hottest axle of the vehicle, measured inside the brake linings or on the braking path of the disc or drum, is between 65 and 100 °C prior to any brake application."
+                },
+                "1.4.1.2": {
+                    "text": "1.4.1.2. The test shall be conducted in the following conditions:",
+                    "1.4.1.2.1": {
+                        "text": "1.4.1.2.1. The vehicle shall be laden, the distribution of its mass among the axles being that stated by the manufacturer; where provision is made for several arrangements of the load on the axles the distribution of the maximum mass among the axles shall be such that the mass on each axle is proportional to the maximum permissible mass for each axle;"
+                    },
+                    "1.4.1.2.2": {
+                        "text": "1.4.1.2.2. Every test shall be repeated on the unladen vehicle; there may be, in addition to the driver, a second person on the front seat who is responsible for noting the results of the test;"
+                    },
+                    "1.4.1.2.3": {
+                        "text": "1.4.1.2.3. In the case of a vehicle equipped with an electric regenerative braking system, the requirements depend on the category of this system: provided, shall not be used during the Type-0 tests. the braking force generated shall not exceed that minimum level guaranteed by the system design. This condition is deemed to be satisfied if the state of charge of the batteries is in one of the following conditions: (a) At the maximum charge level recommended by the manufacturer, as listed in the vehicle specification; (b) At a level not less than 95 per cent of the full charge level, where the manufacturer has made no specific recommendation; (c) At a maximum level resulting from automatic charge control on the vehicle; or (d) When the tests are conducted without a regenerative braking component regardless of the state of charge of the batteries."
+                    },
+                    "1.4.1.2.4": {
+                        "text": "1.4.1.2.4. The limits prescribed for minimum performance, both for tests with the vehicle unladen and for tests with the vehicle laden, shall be those laid down hereunder; the vehicle shall satisfy both the prescribed stopping distance and the prescribed mean fully developed deceleration, but it may not be necessary to actually measure both parameters;"
+                    },
+                    "1.4.1.2.5": {
+                        "text": "1.4.1.2.5. The road shall be level; unless otherwise specified each test may comprise up to six stops including any needed for familiarization."
+                    }
+                }
+            },
+            "1.4.2": {
+                "text": "1.4.2. Type-0 test with engine disconnected, service braking in accordance with paragraph 2.1.1.(A) of this annex. this connection being subject to a certain margin of tolerance. The minimum performance prescribed shall be attained."
+            },
+            "1.4.3": {
+                "text": "1.4.3. Type-0 test with engine connected, service braking in accordance with paragraph 2.1.1.(B) of this annex.",
+                "1.4.3.1": {
+                    "text": "1.4.3.1. The test shall be carried out with the engine connected, from the speed prescribed in paragraph 2.1.1.(B) of this annex. The minimum performance prescribed shall be attained. This test is not run if the maximum speed of the vehicle is  125 km/h."
+                },
+                "1.4.3.2": {
+                    "text": "1.4.3.2. The maximum practical performance figures shall be measured, and the behaviour of the vehicle shall be in accordance with paragraph 1.3.2. of this annex. However, if the maximum speed of the vehicle is greater than 200 km/h, the test speed shall be 160 km/h."
+                }
+            }
+        },
+        "1.5": {
+            "text": "1.5. In the context of this annex \"vehicle\" shall mean the vehicle type approved according to this Regulation and for which it is requested that the comparison shall be considered satisfactory.",
+            "1.5.1": {
+                "text": "1.5.1. Heating procedure",
+                "1.5.1.1": {
+                    "text": "1.5.1.1. The service brakes of all vehicles shall be tested by successively applying and releasing the brakes a number of times, the vehicle being laden, in the conditions shown in the table below:"
+                },
+                "1.5.1.2": {
+                    "text": "1.5.1.2. If the characteristics of the vehicle make it impossible to abide by the duration prescribed for t, the duration may be increased; in any event, in addition to the time necessary for braking and accelerating the vehicle, a period of 10 seconds shall be allowed in each cycle for stabilizing the speed v1."
+                },
+                "1.5.1.3": {
+                    "text": "1.5.1.3. In these tests, the force applied to the control shall be so adjusted as to attain a mean deceleration of 3 m/s2 during every brake application; two preliminary tests may be carried out to determine the appropriate control force."
+                },
+                "1.5.1.4": {
+                    "text": "1.5.1.4. During brake applications, the highest gear ratio (excluding overdrive, etc.) shall be continuously engaged."
+                },
+                "1.5.1.5": {
+                    "text": "1.5.1.5. For regaining speed after braking, the gearbox shall be used in such a way as to attain the speed v1 in the shortest possible time (maximum acceleration allowed by the engine and gearbox)."
+                },
+                "1.5.1.6": {
+                    "text": "1.5.1.6. For vehicles not having sufficient autonomy to carry out the cycles of heating of the brakes, the tests shall be carried out by achieving the prescribed speed before the first braking application and thereafter by using the maximum acceleration available to regain speed and then braking successively at the speed reached at the end of each 45 second cycle duration."
+                },
+                "1.5.1.7": {
+                    "text": "1.5.1.7. For vehicles equipped with an electric regenerative braking system of category B, the condition of the vehicle batteries at the start of the test, shall be such that the braking force contribution provided by the electric regenerative braking system does not exceed the minimum guaranteed by the system design. This requirement is deemed to be satisfied if the batteries are at one of the state of charge conditions as listed in paragraph 1.4.1.2.3. above."
+                }
+            },
+            "1.5.2": {
+                "text": "1.5.2. Hot performance",
+                "1.5.2.1": {
+                    "text": "1.5.2.1. At the end of the Type-I test (described in paragraph 1.5.1. of this annex) the hot performance of the service braking system shall be measured in the same conditions (and in particular at a mean control force no greater than the mean force actually used) as for the Type-0 test with the engine disconnected (the temperature conditions may be different)."
+                },
+                "1.5.2.2": {
+                    "text": "1.5.2.2. This hot performance shall not be less than 752 per cent of that prescribed, nor less than 60 per cent of the figure recorded in the Type-0 test with the engine disconnected."
+                },
+                "1.5.2.3": {
+                    "text": "1.5.2.3. For vehicles fitted with an electric regenerative braking system of category A, during brake applications, the highest gear shall be continuously engaged and the separate electric braking control, if any, not used."
+                },
+                "1.5.2.4": {
+                    "text": "1.5.2.4. In the case of vehicles equipped with an electric regenerative braking system of category B, having carried out the heating cycles according to paragraph 1.5.1.6. of this annex, the hot performance test shall be carried out at the maximum speed which can be reached by the vehicle at the end of the brake heating cycles, unless the speed specified in paragraph 2.1.1.(A) of this annex can be reached. same speed and with a similar electric regenerative braking contribution, as set by an appropriate state of battery charge, as was available during the hot performance test. shall be permitted before the test is made to compare this second cold performance with that achieved in the hot test, against the criteria of paragraphs 1.5.2.2. or 1.5.2.5. of this annex. The tests may be conducted without a regenerative braking component. In this case, the requirement on the state of charge of the batteries is not applicable."
+                },
+                "1.5.2.5": {
+                    "text": "1.5.2.5. In the case of a vehicle which satisfies the 60 per cent requirement specified in paragraph 1.5.2.2. of this annex, but which cannot comply with the 752 per cent requirement of paragraph 1.5.2.2. of this annex, a further hot performance test may be carried out using a control force not exceeding that specified in paragraph 2. of this annex. The results of both tests shall be entered in the report."
+                }
+            },
+            "1.5.3": {
+                "text": "1.5.3. Recovery procedure the engine connected, at a mean deceleration of 3 m/s2. Allow an interval of 1.5 km between the start of successive stops. Immediately after each stop, accelerate at maximum rate to 50 km/h and maintain that speed until making the next stop.",
+                "1.5.3.1": {
+                    "text": "1.5.3.1. Vehicles equipped with an electrical regenerative braking system of Category B may have their batteries recharged or replaced by a charged set. In this case, further reconditioning of the linings shall be performed in order to complete the recovery procedure. (updated according to Supplement 2 to the 01 series of amendments, date of entry into force: 30.09.2021)"
+                }
+            },
+            "1.5.4": {
+                "text": "1.5.4. Recovery performance braking system shall be measured in the same conditions as for the Type-0 test with the engine disconnected (the temperature conditions may be different), using a mean force on the control, which is not more than the mean control force used in the corresponding Type-0 test. 150 per cent, of the figure recorded in the Type-0 test with the engine disconnected.",
+                "1.5.4.1": {
+                    "text": "1.5.4.1. For vehicles equipped with an electrical regenerative braking system of category B, the recovery test shall be made with no regenerative braking component, i.e. under the conditions of paragraph 1.5.4. above. be made from the same speed and with no electric regenerative braking contribution as in the recovery test with the engine/motors disconnected, and comparison shall be made between these test results. 150 per cent of the figure recorded in this final repeat Type-0 test."
+                }
+            }
+        }
+    },
+    "2": {
+        "text": "2. Definitions example within the electronic units, so as to address system integrity and thereby ensure safe operation even in the event of an electrical failure. for vital vehicle functions may be a part of the safety concept.",
+        "2.1": {
+            "text": "2.1. A dynamometer having the following characteristics shall be used for the tests:",
+            "2.1.1": {
+                "text": "2.1.1. It shall be capable of generating the inertia required by paragraph 3.1. of this annex, and have the capacity to meet the requirements prescribed by paragraph 1.5. of Annex 3 to this Regulation with respect to the Type-I fade test;",
+                "2.1.1.1": {
+                    "text": "2.1.1.1. \"p1\" represents the maximum system operational pressure (cut-out pressure) in the energy storage device(s) specified by the manufacturer."
+                },
+                "2.1.1.2": {
+                    "text": "2.1.1.2. \"p2\" represents the pressure after four full-stroke actuations with the service brake control, starting at p1, without having fed the energy storage device(s)."
+                },
+                "2.1.1.3": {
+                    "text": "2.1.1.3. \"t\" represents the time required for the pressure to rise from p2 to p1 in the energy storage device(s) without application of the brake control."
+                }
+            },
+            "2.1.2": {
+                "text": "2.1.2. The brakes fitted shall be identical with those of the original vehicle type concerned;",
+                "2.1.2.1": {
+                    "text": "2.1.2.1. During the tests to determine the time t, the feed rate of the energy source shall be that obtained when the engine is running at the speed corresponding to its maximum power or at the speed allowed by the over-speed governor."
+                },
+                "2.1.2.2": {
+                    "text": "2.1.2.2. During the test to determine the time t, energy storage device(s) for auxiliary equipment shall not be isolated other than automatically."
+                }
+            },
+            "2.1.3": {
+                "text": "2.1.3. Air cooling, if provided, shall be in accordance with paragraph 3.4. of this annex;",
+                "2.1.3.1": {
+                    "text": "2.1.3.1. In the case of all vehicles, the time t shall not exceed 20 seconds."
+                }
+            },
+            "2.1.4": {
+                "text": "2.1.4. The instrumentation for the test shall be capable of providing at least the following data;",
+                "2.1.4.1": {
+                    "text": "2.1.4.1. A continuous recording of disc or drum rotational speed;"
+                },
+                "2.1.4.2": {
+                    "text": "2.1.4.2. Number of revolutions completed during a stop, to resolution not greater than one eighth of a revolution;"
+                },
+                "2.1.4.3": {
+                    "text": "2.1.4.3. Stop time;"
+                },
+                "2.1.4.4": {
+                    "text": "2.1.4.4. A continuous recording of the temperature measured in the centre of the path swept by the lining or at mid-thickness of the disc or drum or lining;"
+                },
+                "2.1.4.5": {
+                    "text": "2.1.4.5. A continuous recording of brake application control line pressure or force;"
+                },
+                "2.1.4.6": {
+                    "text": "2.1.4.6. A continuous recording of brake output torque."
+                }
+            }
+        },
+        "2.2": {
+            "text": "2.2. \"Electronic control system\" means a combination of units, designed to co- operate in the production of the stated vehicle control function by electronic data processing. components such as sensors, electronic control units and actuators and connected by transmission links. They may include mechanical, electro- pneumatic or electro-hydraulic elements. sought.",
+            "2.2.1": {
+                "text": "2.2.1. The performance of the secondary braking system shall be tested by the Type- 0 test with the engine disconnected from an initial vehicle speed of 100 km/h and a force applied to the service brake control not less than 6.5 daN and not exceeding 50 daN."
+            },
+            "2.2.2": {
+                "text": "2.2.2. The secondary braking system shall give a stopping distance not exceeding the following value: 0.1 v + 0.0158 v2 (m)  and a mean fully developed deceleration not less than 2.44 m/s2 (corresponding  to the second term of the above formula)."
+            },
+            "2.2.3": {
+                "text": "2.2.3. The secondary braking effectiveness test shall be conducted by simulating the actual failure conditions in the service braking system."
+            },
+            "2.2.4": {
+                "text": "2.2.4. For vehicles employing electric regenerative braking systems, the braking performance shall additionally be checked under the two following failure conditions:",
+                "2.2.4.1": {
+                    "text": "2.2.4.1. For a total failure of the electric component of the service braking output."
+                },
+                "2.2.4.2": {
+                    "text": "2.2.4.2. In the case where the failure condition causes the electric component to deliver its maximum braking force."
+                }
+            },
+            "2.2.5": {
+                "text": "2.2.5. The engine type;"
+            },
+            "2.2.6": {
+                "text": "2.2.6. The number and ratios of gears;"
+            },
+            "2.2.7": {
+                "text": "2.2.7. The final drive ratios;"
+            },
+            "2.2.8": {
+                "text": "2.2.8. The tyre dimensions."
+            }
+        },
+        "2.3": {
+            "text": "2.3. \"Complex electronic vehicle control systems\" are those electronic control systems which are subject to a hierarchy of control in which a controlled function may be over-ridden by a higher level electronic control system/function.",
+            "2.3.1": {
+                "text": "2.3.1. The parking braking system shall be capable of holding the laden vehicle stationary on a 20 per cent up or down gradient."
+            },
+            "2.3.2": {
+                "text": "2.3.2. On vehicles to which the coupling of a trailer is authorized, the parking braking system of the motor vehicle shall be capable of holding the combination of vehicles stationary on a 12 per cent up or down gradient."
+            },
+            "2.3.3": {
+                "text": "2.3.3. If the control device is manual, the force applied to it shall not exceed 40 daN."
+            },
+            "2.3.4": {
+                "text": "2.3.4. If it is a foot control device, the force exerted on the control shall not exceed 50 daN."
+            },
+            "2.3.5": {
+                "text": "2.3.5. A parking braking system which has to be actuated several times before it attains the prescribed performance is admissible."
+            },
+            "2.3.6": {
+                "text": "2.3.6. To check compliance with the requirement specified in paragraph 5.2.2.4. of this Regulation, a Type-0 test shall be carried out, with the engine disconnected, at an initial test speed of 30 km/h. The mean fully developed deceleration on application of the control of the parking brake system and the deceleration immediately before the vehicle stops, shall not be less than 1.5 m/s2. The test shall be carried out with the laden vehicle. The force exerted on the braking control device shall not exceed the specified values."
+            }
+        },
+        "2.4": {
+            "text": "2.4. \"Higher-level control\" systems/functions are those which employ additional processing and/or sensing provisions to modify vehicle behaviour by commanding variations in the normal function(s) of the vehicle control system. priority which depends on the sensed circumstances."
+        },
+        "2.5": {
+            "text": "2.5. \"Units\" are the smallest divisions of system components which will be considered in this annex, since these combinations of components will be treated as single entities for purposes of identification, analysis or replacement.",
+            "2.5.1": {
+                "text": "2.5.1. \"Control transmission\" means the combination of the components of the transmission which control the operation of the brakes, including the control function and the necessary reserve(s) of energy;"
+            },
+            "2.5.2": {
+                "text": "2.5.2. \"Energy transmission\" means the combination of the components which supply to the brakes the necessary energy for their function, including the reserve(s) of energy necessary for the operation of the brakes."
+            }
+        },
+        "2.6": {
+            "text": "2.6. \"Transmission links\" are the means used for inter-connecting distributed units for the purpose of conveying signals, operating data or an energy supply. pneumatic, hydraulic or optical."
+        },
+        "2.7": {
+            "text": "2.7. \"Range of control\" refers to an output variable and defines the range over which the system is likely to exercise control.",
+            "2.7.1": {
+                "text": "2.7.1. Components having different characteristics;"
+            },
+            "2.7.2": {
+                "text": "2.7.2. A component made of materials having different characteristics, or a component differing in shape or size;"
+            },
+            "2.7.3": {
+                "text": "2.7.3. A different assembly of the components."
+            }
+        },
+        "2.8": {
+            "text": "2.8. \"Boundary of functional operation\" defines the boundaries of the external physical limits within which the system is able to maintain control."
+        },
+        "2.9": {
+            "text": "2.9. \"Progressive and graduated braking\" means braking during which, within the normal operating range of the device, and during actuation of the brakes (see paragraph 2.16. below):",
+            "2.9.1": {
+                "text": "2.9.1. The driver can at any moment increase or decrease the braking force by acting on the control;"
+            },
+            "2.9.2": {
+                "text": "2.9.2. The braking force varies proportionally as the action on the control (monotonic function);"
+            },
+            "2.9.3": {
+                "text": "2.9.3. The braking force can be easily regulated with sufficient precision."
+            }
+        },
+        "2.10": {
+            "text": "2.10. \"Laden vehicle\" means, except where otherwise stated, a vehicle so laden as to attain its \"maximum mass\"."
+        },
+        "2.11": {
+            "text": "2.11. \"Maximum mass\" means the maximum mass stated by the vehicle manufacturer to be technically permissible (this mass may be higher than the \"permissible maximum mass\" laid down by the national administration)."
+        },
+        "2.12": {
+            "text": "2.12. \"The distribution of mass among the axles\" means the distribution of the effect of the gravity on the mass of the vehicle and/or its contents among the axles."
+        },
+        "2.13": {
+            "text": "2.13. \"Wheel/axle load\" means the vertical static reaction (force) of the road surface in the contact area on the wheel/wheels of the axle."
+        },
+        "2.14": {
+            "text": "2.14. \"Maximum stationary wheel/axle load\" means the stationary wheel/axle load achieved under the condition of the laden vehicle."
+        },
+        "2.15": {
+            "text": "2.15. \"Hydraulic braking equipment with stored energy\" means a braking equipment where energy is supplied by a hydraulic fluid under pressure, stored in one or more accumulator(s) fed from one or more pressure pump(s), each fitted with a means of limiting the pressure to a maximum value. This value shall be specified by the manufacturer."
+        },
+        "2.16": {
+            "text": "2.16. \"Actuation\" means both application and release of the control."
+        },
+        "2.17": {
+            "text": "2.17. \"Electric regenerative braking\" means a braking system which, during deceleration, provides for the conversion of vehicle kinetic energy into electrical energy.",
+            "2.17.1": {
+                "text": "2.17.1. \"Electric regenerative braking control\" means a device which modulates the action of the electric regenerative braking system;"
+            },
+            "2.17.2": {
+                "text": "2.17.2. \"Electric regenerative braking system of category A\" means an electric regenerative braking system which is not part of the service braking system;"
+            },
+            "2.17.3": {
+                "text": "2.17.3. \"Electric regenerative braking system of category B\" means an electric regenerative braking system which is part of the service braking system;"
+            },
+            "2.17.4": {
+                "text": "2.17.4. \"Electric state of charge\" means the instantaneous ratio of electric quantity of energy stored in the traction battery relative to the maximum quantity of electric energy which could be stored in this battery;"
+            },
+            "2.17.5": {
+                "text": "2.17.5. \"Traction battery\" means an assembly of accumulators constituting the storage of energy used for powering the traction motor(s) of the vehicle."
+            }
+        },
+        "2.18": {
+            "text": "2.18. \"Phased braking\" is a means which may be used where two or more sources of braking are operated from a common control, whereby one source may be given priority by phasing back the other source(s) so as to make increased control movement necessary before they begin to be brought into operation."
+        },
+        "2.19": {
+            "text": "2.19. \"Nominal value\" definitions for braking reference performance are required to put a value on the transfer function of the braking system, relating output to input for vehicles individually.",
+            "2.19.1": {
+                "text": "2.19.1. \"Nominal value\" is defined as the characteristic which can be demonstrated at type approval and which relates the braking rate of the vehicle on its own to the level of the braking input variable."
+            }
+        },
+        "2.20": {
+            "text": "2.20. \"Automatically commanded braking\" means a function within a complex electronic control system where actuation of the braking system(s) or brakes of certain axles is made for the purpose of generating vehicle retardation with or without a direct action of the driver, resulting from the automatic evaluation of on-board initiated information."
+        },
+        "2.21": {
+            "text": "2.21. \"Selective braking\" means a function within a complex electronic control system where actuation of individual brakes is made by automatic means in which vehicle retardation is secondary to vehicle behaviour modification."
+        },
+        "2.22": {
+            "text": "2.22. \"Braking signal\": logic signal indicating brake activation as specified in paragraph 5.2.22. of this Regulation."
+        },
+        "2.23": {
+            "text": "2.23. \"Emergency braking signal\": logic signal indicating emergency braking as specified in paragraph 5.2.23. of this Regulation."
+        },
+        "2.24": {
+            "text": "2.24. \"Identification code\" identifies the brake discs or brake drums covered by the braking system approval according to this Regulation. It contains at least the manufacturer's trade name or trademark and an identification number."
+        }
+    },
+    "3": {
+        "text": "3. Documentation",
+        "3.1": {
+            "text": "3.1. Requirements to the basic design of \"The System\" and the means by which it is linked to other vehicle systems or by which it directly controls output variables. manufacturer, shall be explained. development has had the benefit of expertise from all the system fields which are involved. current operational status of \"The System\" can be checked.",
+            "3.1.1": {
+                "text": "3.1.1. Documentation shall be made available in 2 parts: (a) The formal documentation package for the approval, containing the material listed in paragraph 3. (with the exception of that of paragraph 3.4.4.) which shall be supplied to the Technical Service at the time of submission of the type approval application. This will be taken as the basic reference for the verification process set out in paragraph 4. of this annex; (b) Additional material and analysis data of paragraph 3.4.4., which shall be retained by the manufacturer, but made open for inspection at the time of type approval."
+            },
+            "3.1.2": {
+                "text": "3.1.2. Category 2 anti-lock system requirements of this annex, except those of paragraph 5.3.5. below."
+            },
+            "3.1.3": {
+                "text": "3.1.3. Category 3 anti-lock system requirements of this annex, except those of paragraphs 5.3.4. and 5.3.5. below. On such vehicles, any individual axle which does not include at least one directly controlled wheel shall fulfil the conditions of adhesion utilization and the wheel-locking sequence of Annex 5 to this Regulation, instead of the adhesion utilization requirements prescribed in paragraph 5.2. of this annex. However, if the relative positions of the adhesion utilization curves do not meet the requirements of paragraph 3.1. of Annex 5 to this Regulation, a check shall be made to ensure that the wheels on at least one of the rear axles do not lock before those of the front axle or axles under the conditions prescribed in paragraph 3.1. of Annex 5 to this Regulation, with regard to the braking rate and the load respectively. These requirements may be checked on high- and low-adhesion road surfaces (about 0.8 and 0.3 maximum) by modulating the service braking control force."
+            }
+        },
+        "3.2": {
+            "text": "3.2. Description of the functions of \"The System\" control functions of \"The System\" and the methods employed to achieve the objectives, including a statement of the mechanism(s) by which control is exercised.",
+            "3.2.1": {
+                "text": "3.2.1. A list of all input and sensed variables shall be provided and the working range of these defined."
+            },
+            "3.2.2": {
+                "text": "3.2.2. A list of all output variables which are controlled by \"The System\" shall be provided and an indication given, in each case, of whether the control is direct or via another vehicle system. The range of control (paragraph 2.7. above) exercised on each such variable shall be defined."
+            },
+            "3.2.3": {
+                "text": "3.2.3. Limits defining the boundaries of functional operation (paragraph 2.8. above) shall be stated where appropriate to system performance."
+            },
+            "3.2.4": {
+                "text": "3.2.4. Detailed drawings of each component to enable it to be easily located and identified."
+            }
+        },
+        "3.3": {
+            "text": "3.3. System layout and schematics",
+            "3.3.1": {
+                "text": "3.3.1. Inventory of components the other vehicle systems which are needed to achieve the control function in question. with both the equipment distribution and the interconnections made clear."
+            },
+            "3.3.2": {
+                "text": "3.3.2. Functions of the units linking it with other Units or with other vehicle systems shall be shown. This may be provided by a labelled block diagram or other schematic, or by a description aided by such a diagram."
+            },
+            "3.3.3": {
+                "text": "3.3.3. Interconnections the electrical transmission links, by an optical-fiber diagram for optical links, by a piping diagram for pneumatic or hydraulic transmission equipment and by a simplified diagrammatic layout for mechanical linkages."
+            },
+            "3.3.4": {
+                "text": "3.3.4. Signal flow and priorities signals carried between units. may be an issue affecting performance or safety as far as this Regulation is concerned."
+            },
+            "3.3.5": {
+                "text": "3.3.5. Identification of units hardware and marking or software output for software content) to provide corresponding hardware and documentation association. computer, but shown in multiple blocks in the block diagram for clarity and ease of explanation, only a single hardware identification marking shall be used. equipment supplied conforms to the corresponding document.",
+                "3.3.5.1": {
+                    "text": "3.3.5.1. The identification defines the hardware and software version and, where the latter changes such as to alter the function of the unit as far as this Regulation is concerned, this identification shall also be changed."
+                }
+            }
+        },
+        "3.4": {
+            "text": "3.4. Safety concept of the manufacturer",
+            "3.4.1": {
+                "text": "3.4.1. The manufacturer shall provide a statement which affirms that the strategy chosen to achieve \"The System\" objectives will not, under non-fault conditions, prejudice the safe operation of systems which are subject to the prescriptions of this Regulation."
+            },
+            "3.4.2": {
+                "text": "3.4.2. In respect of software employed in \"The System\", the outline architecture shall be explained and the design methods and tools used shall be identified. The manufacturer shall be prepared, if required, to show some evidence of the means by which they determined the realisation of the system logic, during the design and development process."
+            },
+            "3.4.3": {
+                "text": "3.4.3. The Manufacturer shall provide the technical authorities with an explanation of the design provisions built into \"The System\" so as to generate safe operation under fault conditions. Possible design provisions for failure in \"The System\" are for example: (a) Fall-back to operation using a partial system; (b) Change-over to a separate back-up system; (c) Removal of the high level function. or message display. When the system is not deactivated by the driver, e.g. by turning the Ignition (run) switch to \"off\", or by switching off that particular function if a special switch is provided for that purpose, the warning shall be present as long as the fault condition persists.",
+                "3.4.3.1": {
+                    "text": "3.4.3.1. If the chosen provision selects a partial performance mode of operation under certain fault conditions, then these conditions shall be stated and the resulting limits of effectiveness defined."
+                },
+                "3.4.3.2": {
+                    "text": "3.4.3.2. If the chosen provision selects a second (back-up) means to realise the vehicle control system objective, the principles of the change-over mechanism, the logic and level of redundancy and any built in back-up checking features shall be explained and the resulting limits of back-up effectiveness defined."
+                },
+                "3.4.3.3": {
+                    "text": "3.4.3.3. If the chosen provision selects the removal of the higher level function, all the corresponding output control signals associated with this function shall be inhibited, and in such a manner as to limit the transition disturbance."
+                }
+            },
+            "3.4.4": {
+                "text": "3.4.4. The documentation shall be supported, by an analysis which shows, in overall terms, how the system will behave on the occurrence of any one of those specified faults which will have a bearing on vehicle control performance or safety. Tree Analysis (FTA) or any similar process appropriate to system safety considerations. manufacturer and shall be made open for inspection by the Technical Service at the time of the type approval.",
+                "3.4.4.1": {
+                    "text": "3.4.4.1. This documentation shall itemise the parameters being monitored and shall set out, for each fault condition of the type defined in paragraph 3.4.4. above, the warning signal to be given to the driver and/or to service/technical inspection personnel."
+                }
+            }
+        }
+    },
+    "4": {
+        "4.1": {
+            "text": "4.1. The functional operation of \"The System\", as laid out in the documents required in paragraph 3., shall be tested as follows:",
+            "4.1.1": {
+                "text": "4.1.1. Verification of the function of \"The System\" performance of the vehicle system under non-fault conditions shall be conducted against the manufacturer's basic benchmark specification unless this is subject to a specified performance test as part of the approval procedure of this or another Regulation."
+            },
+            "4.1.2": {
+                "text": "4.1.2. Verification of the safety concept of paragraph 3.4. of this annex. Authority, be checked under the influence of a failure in any individual unit by applying corresponding output signals to electrical units or mechanical elements in order to simulate the effects of internal faults within the unit. failure analysis, to a level of overall effect such that the safety concept and execution are confirmed as being adequate."
+            }
+        },
+        "4.2": {
+            "text": "4.2. Brake lining equivalence shall be based on a comparison of the results achieved using the test procedures prescribed in this annex and in accordance with the following requirements."
+        },
+        "4.3": {
+            "text": "4.3. Type-O cold performance test",
+            "4.3.1": {
+                "text": "4.3.1. Three brake applications shall be made when the initial temperature is below 100 °C. The temperature shall be measured in accordance with the provisions of paragraph 2.1.4.4. of this annex."
+            },
+            "4.3.2": {
+                "text": "4.3.2. Brake applications shall be made from an initial rotational speed equivalent to that given in row (A) of the table under paragraph 2.1.1. of Annex 3 to this Regulation, and the brake shall be applied to achieve a mean torque equivalent to the deceleration prescribed in that paragraph. In addition, tests shall also be carried out at several rotational speeds, the lowest being equivalent to 30 per cent of the maximum speed of the vehicle and the highest being equivalent to 80 per cent of that speed."
+            },
+            "4.3.3": {
+                "text": "4.3.3. The mean braking torque recorded during the above cold performance tests on the linings being tested for the purpose of comparison shall, for the same input measurement, be within the test limits 15 per cent of the mean braking torque recorded with the brake linings conforming to the component identified in the relevant application for vehicle type approval."
+            }
+        },
+        "4.4": {
+            "text": "4.4. Type-I test (fade test)",
+            "4.4.1": {
+                "text": "4.4.1. Heating procedure",
+                "4.4.1.1": {
+                    "text": "4.4.1.1. Brake linings shall be tested according to the procedure given in paragraph 1.5.1. of Annex 3 to this Regulation."
+                }
+            },
+            "4.4.2": {
+                "text": "4.4.2. Hot performance",
+                "4.4.2.1": {
+                    "text": "4.4.2.1. On completion of the tests required under paragraph 4.4.1. of this annex, the hot braking performance test specified in paragraph 1.5.2. of Annex 3 to this Regulation shall be carried out."
+                },
+                "4.4.2.2": {
+                    "text": "4.4.2.2. The mean braking torque recorded during the above hot performance tests on the linings being tested for the purpose of comparison shall, for the same input measurement, be within the test limits 15 per cent of the mean braking torque recorded with the brake linings conforming to the component identified in the relevant application for vehicle type approval."
+                }
+            }
+        },
+        "4.5": {
+            "text": "4.5. If the vehicle conforms to a vehicle type approved under one or more other Regulations, annexed to the Agreement, in the country which has granted approval under this Regulation, the symbol prescribed in paragraph 4.4.1. above, need not be repeated; in such a case, the Regulation and approval numbers and the additional symbols of all the regulations under which approval has been granted in the country which has granted approval under this Regulation shall be placed in vertical columns to the right of the symbol prescribed in paragraph 4.4.1. above."
+        },
+        "4.6": {
+            "text": "4.6. The approval mark shall be clearly legible and be indelible."
+        },
+        "4.7": {
+            "text": "4.7. The approval mark shall be placed close to or on the vehicle data plate."
+        },
+        "4.8": {
+            "text": "4.8. Annex 2 to this Regulation gives examples of arrangements of approval marks."
+        },
+        "text": "4. Verification and test"
+    },
+    "5": {
+        "text": "5. Inspection of brake linings check that they are in satisfactory condition for continued use in normal service.",
+        "5.1": {
+            "text": "5.1. Energy consumption when the service braking control device is fully applied for long periods. Compliance with this requirement shall be verified by means of the following tests:",
+            "5.1.1": {
+                "text": "5.1.1. Test procedure",
+                "5.1.1.1": {
+                    "text": "5.1.1.1. The initial energy level in the energy storage device(s) shall be that specified by the manufacturer. This level shall be at least such as to ensure the efficiency prescribed for service braking when the vehicle is laden. The energy storage device(s) for pneumatic auxiliary equipment shall be isolated."
+                },
+                "5.1.1.2": {
+                    "text": "5.1.1.2. From an initial speed of not less than 50 km/h, on a surface with a coefficient of adhesion of 0.35 or less, the brakes of the laden vehicle shall be fully applied for a time t, during which time the energy consumed by the indirectly controlled wheels shall be taken into consideration and all directly controlled wheels shall remain under control of the anti-lock system."
+                },
+                "5.1.1.3": {
+                    "text": "5.1.1.3. The vehicle's engine shall then be stopped or the supply to the energy transmission storage device(s) cut off."
+                },
+                "5.1.1.4": {
+                    "text": "5.1.1.4. The service braking control shall then be fully actuated four times in succession with the vehicle stationary."
+                },
+                "5.1.1.5": {
+                    "text": "5.1.1.5. When the brakes are applied for the fifth time, it shall be possible to brake the vehicle with at least the performance prescribed for secondary braking of the laden vehicle."
+                }
+            },
+            "5.1.2": {
+                "text": "5.1.2. Additional requirements",
+                "5.1.2.1": {
+                    "text": "5.1.2.1. The coefficient of adhesion of the road surface shall be measured with the vehicle under test, by the method described in paragraph 1.1. of Appendix 2 to this annex."
+                },
+                "5.1.2.2": {
+                    "text": "5.1.2.2. The braking test shall be conducted with the engine disconnected and idling, and with the vehicle laden."
+                },
+                "5.1.2.3": {
+                    "text": "5.1.2.3. The braking time t shall be determined by the formula: 7 of the vehicle expressed in km/h, with an upper limit of 160 km/h."
+                },
+                "5.1.2.4": {
+                    "text": "5.1.2.4. If the time t cannot be completed in a single braking phase, further phases may be used, up to a maximum of four in all."
+                },
+                "5.1.2.5": {
+                    "text": "5.1.2.5. If the test is conducted in several phases, no fresh energy shall be supplied between the phases of the test. brake application may be taken into account, by subtracting one full brake application from the four full applications prescribed in paragraph 5.1.1.4. (and 5.1.1.5. and 5.1.2.6.) of this annex for each of the second, third and fourth phases used in the test prescribed in paragraph 5.1.1. of this annex as applicable."
+                },
+                "5.1.2.6": {
+                    "text": "5.1.2.6. The performance prescribed in paragraph 5.1.1.5. of this annex shall be deemed to be satisfied if, at the end of the fourth application, with the vehicle stationary, the energy level in the storage device(s) is at or above that required for secondary braking with the laden vehicle."
+                }
+            },
+            "5.1.3": {
+                "text": "5.1.3. The requirements of Annex 8 shall be applied to the safety aspects of all complex electronic vehicle control systems, including those defined in an independent regulation, which provide or form part of the control transmission of the braking function, included those which utilize the braking system(s) for automatically commanded braking or selective braking. defined in an independent regulation, which use the braking system as the means of achieving a higher level objective, are subject to Annex 8 only insofar as they have a direct effect on the braking system. If such systems are provided, they shall not be deactivated during type approval testing of the braking system."
+            },
+            "5.1.4": {
+                "text": "5.1.4. Provisions for the periodic technical inspection of braking systems",
+                "5.1.4.1": {
+                    "text": "5.1.4.1. It shall be possible to assess the wear condition of the components of the service brake that are subject to wear e.g. friction linings and drums/discs (in the case of drums or discs, wear assessment may not necessarily be carried out at the time of periodic technical inspection). The method by which this may be realized is defined in paragraphs 5.2.11.2. of this Regulation."
+                },
+                "5.1.4.2": {
+                    "text": "5.1.4.2. It shall be possible to verify, in a frequent and simple way, the correct operational status of those complex electronic systems which have control over braking. If special information is needed, this shall be made freely available.",
+                    "5.1.4.2.1": {
+                        "text": "5.1.4.2.1. Where the operational status is indicated to the driver by warning signals, as specified in this Regulation, it shall be possible at a periodic technical inspection to confirm the correct operational status by visual observation of the warning signals following a power-on."
+                    },
+                    "5.1.4.2.2": {
+                        "text": "5.1.4.2.2. At the time of type approval, the means implemented to protect against simple unauthorized modification of the operation to the verification means chosen by the manufacturer (e.g. warning signal) shall be confidentially outlined. Alternatively, this protection requirement is fulfilled when a secondary means of checking the correct operational status is available."
+                    }
+                },
+                "5.1.4.3": {
+                    "text": "5.1.4.3. It shall be possible to generate maximum braking forces under static conditions on a rolling road or roller brake tester."
+                }
+            }
+        },
+        "5.2": {
+            "text": "5.2. Utilization of adhesion",
+            "5.2.1": {
+                "text": "5.2.1. The utilization of adhesion by the anti-lock system takes into account the actual increase in braking distance beyond the theoretical minimum. The anti-lock system shall be deemed to be satisfactory when the condition ε ≥ 0.75 is satisfied, where ε represents the adhesion utilized, as defined in paragraph 1.2. of Appendix 2 to this annex."
+            },
+            "5.2.2": {
+                "text": "5.2.2. The adhesion utilization  shall be measured on road surfaces with a coefficient of adhesion of 0.35 or less, and of about 0.8 (dry road), with an initial speed of 50 km/h. To eliminate the effects of differential brake temperatures it is recommended that zAL be determined prior to the determination of k.",
+                "5.2.2.1": {
+                    "text": "5.2.2.1. There shall be at least two controls, independent of each other and readily accessible to the driver from his normal driving position. Every brake control shall be designed such that it returns to the fully off position when released. This requirement shall not apply to a parking brake control when it is mechanically locked in an applied position;"
+                },
+                "5.2.2.2": {
+                    "text": "5.2.2.2. The control of the service braking system shall be independent of the control of the parking braking system;"
+                },
+                "5.2.2.3": {
+                    "text": "5.2.2.3. The effectiveness of the linkage between the control of the service braking system and the different components of the transmission systems shall not be liable to diminish after a certain period of use;"
+                },
+                "5.2.2.4": {
+                    "text": "5.2.2.4. The parking braking system shall be so designed that it can be actuated when the vehicle is in motion. This requirement may be met by the actuation of the vehicle's service braking system, even partially, by means of an auxiliary control;"
+                },
+                "5.2.2.5": {
+                    "text": "5.2.2.5. Without prejudice to the requirements of paragraph 5.1.2.3. of this Regulation, the service braking system and the parking braking system may use common components in their transmission(s), provided that in the event of a failure in any part of the transmission(s) the requirements for secondary braking are still ensured;"
+                },
+                "5.2.2.6": {
+                    "text": "5.2.2.6. In the event of breakage of any component other than the brakes (as defined in paragraph 2.6. above) and the components referred to in paragraph 5.2.2.10. below, or of any other failure of the service braking system (malfunction, partial or total exhaustion of an energy reserve), that part of the service braking system which is not affected by the failure, shall be able to bring the vehicle to a halt in the conditions prescribed for secondary braking;"
+                },
+                "5.2.2.7": {
+                    "text": "5.2.2.7. If service braking is ensured by the action of the driver's muscular energy assisted by one or more energy reserves, secondary braking shall, in the event of failure of that assistance, be capable of being ensured by the driver's muscular energy assisted by the energy reserves, if any, which are unaffected by the failure, the force applied to the service brake control not exceeding the prescribed maximum;"
+                },
+                "5.2.2.8": {
+                    "text": "5.2.2.8. If the service braking force and transmission depend exclusively on the use, controlled by the driver, of an energy reserve, there shall be at least two completely independent energy reserves, each provided with its own transmission, likewise independent; each of them may act on the brakes of only two or more wheels so selected as to be capable of ensuring by themselves the prescribed degree of secondary braking without endangering the stability of the vehicle during braking; in addition, each of the aforesaid energy reserves shall be equipped with a warning device as defined in paragraph 5.2.14. below;"
+                },
+                "5.2.2.9": {
+                    "text": "5.2.2.9. If the service braking force and transmission depend exclusively on the use of an energy reserve, one energy reserve for the transmission is deemed to be sufficient, provided that the prescribed secondary braking is ensured by the action of the driver's muscular energy acting on the service brake control and the requirements of paragraph 5.2.5. below are met;"
+                },
+                "5.2.2.10": {
+                    "text": "5.2.2.10. Certain parts, such as the pedal and its bearing, the master cylinder and its piston or pistons, the control valve, the linkage between the pedal and the master cylinder or the control valve, the brake cylinders and their pistons, and the lever-and-cam assemblies of brakes, shall not be regarded as liable to breakage if they are amply dimensioned, are readily accessible for maintenance, and exhibit safety features at least equal to those prescribed for other essential components (such as the steering linkage) of the vehicle. Any such part as aforesaid whose failure would make it impossible to brake the vehicle with a degree of effectiveness at least equal to that prescribed for secondary braking shall be made of metal or of a material with equivalent characteristics and shall not undergo notable distortion in normal operation of the braking systems."
+                }
+            },
+            "5.2.3": {
+                "text": "5.2.3. The test procedure to determine the coefficient of adhesion (k) and the formulae for calculation of the adhesion utilization () shall be those laid down in Appendix 2 to this annex."
+            },
+            "5.2.4": {
+                "text": "5.2.4. The utilization of adhesion by the anti-lock system shall be checked on complete vehicles equipped with anti-lock systems of categories 1 or 2. In the case of vehicles equipped with category 3 anti-lock systems, only the axle(s) with at least one directly controlled wheel shall satisfy this requirement.",
+                "5.2.4.1": {
+                    "text": "5.2.4.1. In the event of failure in any part of the transmission of a braking system, the feed to the part not affected by the failure shall continue to be ensured if required for the purpose of halting the vehicle with the degree of effectiveness prescribed for secondary braking. This condition shall be met by means of devices which can easily be actuated when the vehicle is stationary, or by automatic means."
+                },
+                "5.2.4.2": {
+                    "text": "5.2.4.2. Furthermore, storage devices located down-circuit of this device shall be such that in the case of a failure in the energy supply after four full-stroke actuations of the service brake control, under the conditions prescribed in paragraph 1.2. of Annex 4 to this Regulation, it is still possible to halt the vehicle at the fifth application, with the degree of effectiveness prescribed for secondary braking."
+                },
+                "5.2.4.3": {
+                    "text": "5.2.4.3. However, for hydraulic braking systems with stored energy, these provisions can be considered to be met provided that the requirements of paragraph 1.3. of Annex 4 to this Regulation, are satisfied."
+                }
+            },
+            "5.2.5": {
+                "text": "5.2.5. The condition   0.75 shall be checked with the vehicle both laden and unladen.6 force on the control device does not achieve full cycling of the anti-lock system. cycling is achieved with its full force value.7 If 100 daN is insufficient to make the system cycle, then this test may be omitted."
+            },
+            "5.2.6": {
+                "text": "5.2.6. The service braking system shall act on all wheels of the vehicle and shall distribute its action appropriately among the axles."
+            },
+            "5.2.7": {
+                "text": "5.2.7. In the case of vehicles equipped with electric regenerative braking systems of category B, the braking input from other sources of braking, may be suitably phased to allow the electric regenerative braking system alone to be applied, provided that both the following conditions are met:",
+                "5.2.7.1": {
+                    "text": "5.2.7.1. Intrinsic variations in the torque output of the electrical regenerative braking system (e.g. as a result of changes in the electric state of charge in the traction batteries) are automatically compensated by appropriate variation in the phasing relationship as long as the requirements3 of one of the following annexes to this Regulation are satisfied: and braking demand, having regard to the available tyre/road adhesion, braking shall automatically be caused to act on all wheels of the vehicle."
+                }
+            },
+            "5.2.8": {
+                "text": "5.2.8. The action of the service braking system shall be distributed between the wheels of one and the same axle symmetrically in relation to the longitudinal median plane of the vehicle. from this symmetrical distribution shall be declared.",
+                "5.2.8.1": {
+                    "text": "5.2.8.1. Compensation by the electric control transmission for deterioration or defect within the braking system shall be indicated to the driver by means of the yellow warning signal specified in paragraph 5.2.21.1.2. below. This requirement shall apply for all conditions of loading when compensation exceeds the following limits:",
+                    "5.2.8.1.1": {
+                        "text": "5.2.8.1.1. A difference in transverse braking pressures on any axle: Of 25 per cent of the higher value for vehicle decelerations  2 m/sec2; (a) (b) A value corresponding to 25 per cent at 2 m/sec2 for decelerations below this rate."
+                    },
+                    "5.2.8.1.2": {
+                        "text": "5.2.8.1.2. An individual compensating value on any axle:  50 per cent of the nominal value for vehicle decelerations  2 m/sec2; (a) (b) A value corresponding to 50 per cent of the nominal value at 2 m/sec2 for decelerations below this rate."
+                    }
+                },
+                "5.2.8.2": {
+                    "text": "5.2.8.2. Compensation as defined above, is permitted only when the initial brake application is made at vehicle speeds greater than 10 km/h."
+                }
+            },
+            "5.2.9": {
+                "text": "5.2.9. Malfunctions of the electric control transmission shall not apply the brakes contrary to the driver's intentions."
+            },
+            "5.2.10": {
+                "text": "5.2.10. The service, secondary and parking braking systems shall act on braking surfaces connected to the wheels through components of adequate strength. friction braking system and an electrical regenerative braking system of category B, disconnection of the latter source is permitted, providing that the friction braking source remains permanently connected and able to provide the compensation referred to in paragraph 5.2.7.1. above. compensation is accepted, but within 1s, this compensation shall have attained at least 75 per cent of its final value. Nevertheless, in all cases, the permanently connected friction braking source shall ensure that both the service and secondary braking systems continue to operate with the prescribed degree of effectiveness. Disconnection of the braking surfaces of the parking braking system shall be permitted only on condition that the disconnection is controlled by the driver from his driving seat or from a remote control device, by a system incapable of being brought into action by a leak. The remote control device mentioned above shall be part of a system fulfilling the technical requirements of an ACSF of Category A as specified in the 02 series of amendments to UN Regulation No. 79 or later series of amendmentsk. (updated according to Supplement 1 to the 01 series of amendments, date of entry into force: 29.12.2018)"
+            },
+            "5.2.11": {
+                "text": "5.2.11. Wear of the brakes shall be capable of being easily taken up by means of a system of manual or automatic adjustment. In addition, the control and the components of the transmission and of the brakes shall possess a reserve of travel and, if necessary, suitable means of compensation such that, when the brakes become heated, or the brake linings have reached a certain degree of wear, effective braking is ensured without immediate adjustment being necessary.",
+                "5.2.11.1": {
+                    "text": "5.2.11.1. Wear adjustment shall be automatic for the service brakes. Automatic wear adjustment devices shall be such that after heating followed by cooling of the brakes, effective braking is still ensured. In particular the vehicle shall remain capable of normal running after the tests conducted in accordance with Annex 3, paragraph 1.5. (Type-I test)."
+                },
+                "5.2.11.2": {
+                    "text": "5.2.11.2. Checking the wear of the service brake friction components",
+                    "5.2.11.2.1": {
+                        "text": "5.2.11.2.1. It shall be possible to easily assess this wear on service brake linings from the outside or underside of the vehicle, without the removal of the wheels, by the provision of appropriate inspection holes or by some other means. This may be achieved by utilizing simple standard workshop tools or common inspection equipment for vehicles. single wheel), which will warn the driver at his driving position when lining replacement is necessary, is acceptable. In the case of an optical warning, the yellow warning signal specified in paragraph 5.2.21.1.2. below may be used."
+                    },
+                    "5.2.11.2.2": {
+                        "text": "5.2.11.2.2. Assessment of the wear condition of the friction surfaces of brake discs or drums may only be performed by direct measurement of the actual component or examination of any brake disc or drum wear indicators, which may necessitate some level of disassembly. Therefore, at the time of type approval, the vehicle manufacturer shall define the following: (a) The method by which wear of the friction surfaces of drums and discs may be assessed, including the level of disassembly required and the tools and process required to achieve this; (b) Information defining the maximum acceptable wear limit at the point at which replacement becomes necessary. electronic data record."
+                    }
+                }
+            },
+            "5.2.12": {
+                "text": "5.2.12. In hydraulic-transmission braking systems, the filling ports of the fluid reservoirs shall be readily accessible; in addition, the receptacles containing the reserve fluid shall be so designed and constructed that the level of the reserve fluid can be easily checked without the receptacles having to be opened, and the minimum total reservoir capacity is equivalent to the fluid displacement resulting when all the wheel cylinders or calliper pistons serviced by the reservoirs move from a new lining, fully retracted position to a fully worn, fully applied position. If these latter conditions are not fulfilled, the red warning signal specified in paragraph 5.2.21.1.1. below shall draw the driver's attention to any fall in the level of reserve fluid liable to cause a failure of the braking system."
+            },
+            "5.2.13": {
+                "text": "5.2.13. The type of fluid to be used in hydraulic transmission braking systems shall be identified by the symbol in accordance with Figure 1 or 2 of Standard ISO 9128:2006 and the appropriate DOT marking (e.g. DOT 3). The symbol and the marking shall be affixed in a visible position in indelible form within 100 mm of the filling ports of the fluid reservoirs; additional information may be provided by the manufacturer."
+            },
+            "5.2.14": {
+                "text": "5.2.14. Warning device",
+                "5.2.14.1": {
+                    "text": "5.2.14.1. Any vehicle fitted with a service brake actuated from an energy reservoir shall, where the prescribed secondary braking performance cannot be obtained by means of this brake without the use of the stored energy, be provided with a warning device, giving an optical or acoustic signal when the stored energy, in any part of the system, falls to a value at which without re-charging of the reservoir and irrespective of the load conditions of the vehicle, it is possible to apply the service brake control a fifth time after four full-stroke actuations and obtain the prescribed secondary braking performance (without faults in the service brake transmission device and with the brakes adjusted as closely as possible). This warning device shall be directly and permanently connected to the circuit. When the engine is running under normal operating conditions and there are no faults in the braking system, as is the case in type approval tests, the warning device shall give no signal except during the time required for charging the energy reservoir(s) after start-up of the engine. The red warning signal specified in paragraph 5.2.21.1.1. below shall be used as the optical warning signal."
+                },
+                "5.2.14.2": {
+                    "text": "5.2.14.2. However, in the case of vehicles which are only considered to comply with the requirements of paragraph 5.2.4.1. of this Regulation by virtue of meeting the requirements of paragraph 1.3. of Annex 4 to this Regulation, the warning device shall consist of an acoustic signal in addition to an optical signal. These devices need not operate simultaneously, provided that each of them meets the above requirements and the acoustic signal is not actuated before the optical signal. The red warning signal specified in paragraph 5.2.21.1.1. below shall be used as the optical warning signal."
+                },
+                "5.2.14.3": {
+                    "text": "5.2.14.3. This acoustic device may be rendered inoperative while the parking brake is applied and/or, at the choice of the manufacturer, in the case of automatic transmission the selector is in the \"Park\" position."
+                }
+            },
+            "5.2.15": {
+                "text": "5.2.15. Without prejudice to the requirements of paragraph 5.1.2.3. above, where an auxiliary source of energy is essential to the functioning of a braking system, the reserve of energy shall be such as to ensure that, if the engine stops or in the event of a failure of the means by which the energy source is driven, the braking performance remains adequate to bring the vehicle to a halt in the prescribed conditions. In addition, if the muscular effort applied by the driver to the parking braking system is reinforced by a servo device, the actuation of parking braking shall be ensured in the event of a failure of the servo device, if necessary by using a reserve of energy independent of that normally supplying the servo device. This reserve of energy may be that intended for the service braking system."
+            },
+            "5.2.16": {
+                "text": "5.2.16. The pneumatic/hydraulic auxiliary equipment shall be supplied with energy in such a way that during its operation the prescribed deceleration values can be reached and that even in the event of damage to the source of energy the operation of the auxiliary equipment cannot cause the reserves of energy feeding the braking systems to fall below the level indicated in paragraph 5.2.14. above."
+            },
+            "5.2.17": {
+                "text": "5.2.17. In the case of a motor vehicle equipped to tow a trailer with electric service brakes, the following requirements shall be met:",
+                "5.2.17.1": {
+                    "text": "5.2.17.1. The power supply (generator and battery) of the motor vehicle shall have a sufficient capacity to provide the current for an electric braking system. With the engine running at the idling speed recommended by the manufacturer and all electrical devices supplied by the manufacturer as standard equipment of the vehicle switched on, the voltage in the electrical lines shall at maximum current consumption of the electrical braking system (15 A) not fall below the value of 9.6 V measured at the connection. The electrical lines shall not be capable of short circuiting even when overloaded;"
+                },
+                "5.2.17.2": {
+                    "text": "5.2.17.2. In the event of a failure in the motor vehicle's service braking system, where that system consists of at least two independent units, the unit or units not affected by the failure shall be capable of partially or fully actuating the brakes of the trailer;"
+                },
+                "5.2.17.3": {
+                    "text": "5.2.17.3. The use of the stop-lamp switch and circuit for actuating the electrical braking system is permissible only if the actuating line is connected in parallel with the stop-lamp and the existing stop-lamp switch and circuit are capable of taking the extra load."
+                }
+            },
+            "5.2.18": {
+                "text": "5.2.18. Additional requirements for vehicles equipped with electric regenerative braking systems.",
+                "5.2.18.1": {
+                    "text": "5.2.18.1. Vehicles fitted with an electric regenerative braking system of category A.",
+                    "5.2.18.1.1": {
+                        "text": "5.2.18.1.1. The electric regenerative braking shall only be activated by the accelerator control and/or the gear neutral position."
+                    }
+                },
+                "5.2.18.2": {
+                    "text": "5.2.18.2. Vehicles fitted with an electric regenerative braking system of category B.",
+                    "5.2.18.2.1": {
+                        "text": "5.2.18.2.1. It shall not be possible to disconnect, partially or totally, one part of the service braking system other than by automatic means. This should not be construed as a departure from the requirements of paragraph 5.2.10. above;"
+                    },
+                    "5.2.18.2.2": {
+                        "text": "5.2.18.2.2. The service braking system shall have only one control device;"
+                    },
+                    "5.2.18.2.3": {
+                        "text": "5.2.18.2.3. The service braking system shall not be adversely affected by the disengagement of the motor(s) or by the gear ratio used;"
+                    },
+                    "5.2.18.2.4": {
+                        "text": "5.2.18.2.4. If the operation of the electric component of braking is ensured by a relation established between information coming from the control of the service brake and the braking force to the wheels which of it results, a failure of this relation leading to the non-respect of the prescriptions of distribution of braking among the axles (Annex 5 or 6, which is applicable) shall be warned to the driver by an optical warning signal at the latest when the control is actuated and having to remain lit as long as this defect exists and that the switch of \"contact\" is in the position \"Go\"."
+                    }
+                },
+                "5.2.18.3": {
+                    "text": "5.2.18.3. For vehicles fitted with an electric regenerative braking system of either category, all the relevant prescriptions shall apply except paragraph 5.2.18.1.1. above. In this case, the electric regenerative braking may be actuated by the accelerator control and/or the gear neutral position. Additionally, the action on the service braking control shall not reduce the above braking effect generated by the release of the accelerator control."
+                },
+                "5.2.18.4": {
+                    "text": "5.2.18.4. The operation of the electric braking shall not be adversely affected by magnetic or electric fields."
+                },
+                "5.2.18.5": {
+                    "text": "5.2.18.5. For vehicles equipped with an anti-lock device, the anti-lock device shall control the electric braking system."
+                },
+                "5.2.18.6": {
+                    "text": "5.2.18.6. The state of charge of the traction batteries is determined by the method set out in Appendix 1 to Annex 3 to this Regulation.4"
+                }
+            },
+            "5.2.19": {
+                "text": "5.2.19. Special additional requirements for the electric transmission of the parking braking system:",
+                "5.2.19.1": {
+                    "text": "5.2.19.1. In the case of a failure within the electric transmission, any unintended actuation of the parking braking system shall be prevented;"
+                },
+                "5.2.19.2": {
+                    "text": "5.2.19.2. In the case of an electrical failure in the control or a break in the wiring within the electric control transmission between the control and the ECU directly connected with it, excluding the energy supply, it shall remain possible to apply the parking braking system from the driver's seat and thereby be capable of holding the laden vehicle stationary on an 8 per cent up or down gradient. Alternatively, in this case, an automatic actuation of the parking brake is allowed when the vehicle is stationary, provided that the above performance is achieved and, once applied, the parking brake remains engaged independently of the status of the ignition (start) switch. In this alternative, the parking brake shall be automatically released as soon as the driver starts to set the vehicle in motion again. The engine/manual transmission or the automatic transmission (park position) may be used to achieve or assist in achieving the above performance.",
+                    "5.2.19.2.1": {
+                        "text": "5.2.19.2.1. A break in the wiring within the electrical transmission, or an electrical failure in the control of the parking braking system shall be signalled to the driver by the yellow warning signal specified in paragraph 5.2.21.1.2. When caused by a break in the wiring within the electrical control transmission of the parking braking system, this yellow warning signal shall be signalled as soon as the break occurs. external to the electronic control unit(s) and excluding the energy supply shall be signalled to the driver by flashing the red warning signal specified in paragraph 5.2.21.1.1. as long as the ignition (start) switch is in the \"On\" (run) position including a period of not less than 10 seconds thereafter and the control is in the \"On\" (activated) position. brake, the flashing of the red warning signal may be suppressed and the non- flashing red signal shall be used to indicate \"parking brake applied\". warning signal, satisfying all the requirements of paragraph 5.2.21.2. below, this signal shall be used to satisfy the above requirement for a red signal."
+                    }
+                },
+                "5.2.19.3": {
+                    "text": "5.2.19.3. Auxiliary equipment may be supplied with energy from the electric transmission of the parking braking system provided that the supply of energy is sufficient to allow the actuation of the parking braking system in addition to the vehicle electrical load under non-fault conditions. In addition, where the energy reserve is also used by the service braking system, the requirements of paragraph 5.2.20.6. below shall apply."
+                },
+                "5.2.19.4": {
+                    "text": "5.2.19.4. After the ignition/start switch which controls the electrical energy for the braking equipment has been switched off and/or the key removed, it shall remain possible to apply the parking braking system, whereas releasing shall be prevented. However, the parking braking system may also be released when this action is part of an operation of a remote control system fulfilling the technical requirements of an ACSF of Category A as specified in the 02 series of amendments to UN Regulation No. 79 or later series of amendments. (updated according to Supplement 1 to the 01 series of amendments, date of entry into force: 29.12.2018)"
+                }
+            },
+            "5.2.20": {
+                "text": "5.2.20. Special additional requirements for service braking systems with electric control transmission:",
+                "5.2.20.1": {
+                    "text": "5.2.20.1. With the parking brake released, the service braking system shall be able to fulfil the following requirements: (a) With the propulsion system on/off control in the ''On'' (''Run'') position, generate a static total braking force at least equivalent to that required by the Type-0 test for service braking performance as prescribed in paragraph 2.1. of Annex 3 to this Regulation; (b) During the first 60 seconds after the propulsion system on/off control has been deactivated to the ''Off'' or ''Lock'' position and/or the ignition key has been removed, three brake applications shall generate a static total braking force at least equivalent to that required by the Type-0 test for service braking performance as prescribed in paragraph 2.1. of Annex 3 to this Regulation; and (c) After the period mentioned above, or as from the fourth brake application within the 60 second period, whichever occurs first, generate a static total braking force at least equivalent to that required by the Type-0 test for secondary braking performance as prescribed in paragraph 2.2. of Annex 3 to this Regulation. transmission of the service braking system."
+                },
+                "5.2.20.2": {
+                    "text": "5.2.20.2. In the case of a single temporary failure ( 40 ms) within the electric control transmission, excluding its energy supply, (e.g. non-transmitted signal or data error) there shall be no distinguishable effect on the service braking performance. A failure within the electric control transmission,5 not including its energy 5.2.20.3. reserve, that affects the function and performance of systems addressed in this Regulation shall be indicated to the driver by the red or yellow warning signal specified in paragraphs 5.2.21.1.1. and 5.2.21.1.2. below, respectively, as appropriate. When the prescribed service braking performance can no longer be achieved (red warning signal), failures resulting from a loss of electrical continuity (e.g. breakage, disconnection) shall be signalled to the driver as soon as they occur, and the prescribed secondary braking performance shall be fulfilled by operating the service braking control in accordance with paragraph 2.2. of Annex 3 to this Regulation."
+                },
+                "5.2.20.4": {
+                    "text": "5.2.20.4. In the event of a failure of the energy source of the electric control transmission, starting from the nominal value of the energy level, the full control range of the service braking system shall be guaranteed after twenty consecutive full stroke actuations of the service braking control. During the test, the braking control shall be fully applied for 20 seconds and released for 5 seconds on each actuation. It should be understood that during the above test sufficient energy is available in the energy transmission to ensure full actuation of the service braking system. This requirement shall not be construed as a departure from the requirements of Annex 4."
+                },
+                "5.2.20.5": {
+                    "text": "5.2.20.5. When the battery voltage falls below a value nominated by the manufacturer at which the prescribed service braking performance can no longer be guaranteed and/or which precludes at least two independent service braking circuits from each achieving the prescribed secondary braking performance, the red warning signal specified in paragraph 5.2.21.1.1. below shall be activated. After the warning signal has been activated, it shall be possible to apply the service braking control and obtain at least the secondary performance prescribed in paragraph 2.2. of Annex 3 to this Regulation. It should be understood that sufficient energy is available in the energy transmission of the service braking system."
+                },
+                "5.2.20.6": {
+                    "text": "5.2.20.6. If auxiliary equipment is supplied with energy from the same reserve as the electric control transmission, it shall be ensured that, with the engine running at a speed not greater than 80 per cent of the maximum power speed, the supply of energy is sufficient to fulfil the prescribed deceleration values by either provision of an energy supply which is able to prevent discharge of this reserve when all auxiliary equipment is functioning or by automatically switching off pre-selected parts of the auxiliary equipment at a voltage above the critical level referred to in paragraph 5.2.20.5. above of this Regulation such that further discharge of this reserve is prevented. Compliance may be demonstrated by calculation or by a practical test. This paragraph does not apply to vehicles where the prescribed deceleration values can be reached without the use of electrical energy."
+                },
+                "5.2.20.7": {
+                    "text": "5.2.20.7. If the auxiliary equipment is supplied with energy from the electric control transmission, the following requirements shall be fulfilled:",
+                    "5.2.20.7.1": {
+                        "text": "5.2.20.7.1. In the event of a failure in the energy source, whilst the vehicle is in motion, the energy in the reservoir shall be sufficient to actuate the brakes when the control is applied;"
+                    },
+                    "5.2.20.7.2": {
+                        "text": "5.2.20.7.2. In the event of a failure in the energy source, whilst the vehicle is stationary and the parking braking system applied, the energy in the reservoir shall be sufficient to actuate the lights even when the brakes are applied."
+                    }
+                }
+            },
+            "5.2.21": {
+                "text": "5.2.21. The general requirements for optical warning signals whose function is to indicate to the driver certain specified failures (or defects) within the braking equipment of the motor vehicle, are set out in the following sub-paragraphs. Other than as described in paragraph 5.2.21.5. below, these signals shall be used exclusively for the purposes prescribed by this Regulation.",
+                "5.2.21.1": {
+                    "text": "5.2.21.1. Motor vehicles shall be capable of providing optical brake failure and defect warning signals, as follows:",
+                    "5.2.21.1.1": {
+                        "text": "5.2.21.1.1. A red warning signal, indicating failures defined elsewhere in this Regulation within the vehicle braking equipment which preclude achievement of the prescribed service braking performance and/or which preclude the functioning of at least one of two independent service braking circuits;"
+                    },
+                    "5.2.21.1.2": {
+                        "text": "5.2.21.1.2. Where applicable, a yellow warning signal indicating an electrically detected defect within the vehicle braking equipment, which is not indicated by the red warning signal described in paragraph 5.2.21.1.1. above."
+                    }
+                },
+                "5.2.21.2": {
+                    "text": "5.2.21.2. The warning signals shall be visible, even by daylight; the satisfactory condition of the signals shall be easily verifiable by the driver from the driver's seat; the failure of a component of the warning devices shall not entail any loss of the braking system's performance."
+                },
+                "5.2.21.3": {
+                    "text": "5.2.21.3. Except where stated otherwise:",
+                    "5.2.21.3.1": {
+                        "text": "5.2.21.3.1. A specified failure or defect shall be signalled to the driver by the above- mentioned warning signal(s) not later than on actuation of the relevant braking control;"
+                    },
+                    "5.2.21.3.2": {
+                        "text": "5.2.21.3.2. The warning signal(s) shall remain displayed as long as the failure/defect persists and the ignition (start) switch is in the \"On\" (run) position; and"
+                    },
+                    "5.2.21.3.3": {
+                        "text": "5.2.21.3.3. The warning signal shall be constant (not flashing)."
+                    }
+                },
+                "5.2.21.4": {
+                    "text": "5.2.21.4. The warning signal(s) mentioned above shall light up when the electrical equipment of the vehicle (and the braking system) is energised. With the vehicle stationary, the braking system shall verify that none of the specified failures or defects are present before extinguishing the signals. Specified failures or defects which should activate the warning signals mentioned above, but which are not detected under static conditions, shall be stored upon detection and be displayed at start-up and at all times when the ignition (start) switch is in the \"On\" (run) position, as long as the failure or defect persists."
+                },
+                "5.2.21.5": {
+                    "text": "5.2.21.5. Non specified failures (or defects), or other information concerning the brakes and/or running gear of the power-driven vehicle, may be indicated by the yellow signal specified in paragraph 5.2.21.1.2. above, provided that all the following conditions are fulfilled:",
+                    "5.2.21.5.1": {
+                        "text": "5.2.21.5.1. The vehicle is stationary;"
+                    },
+                    "5.2.21.5.2": {
+                        "text": "5.2.21.5.2. After the braking equipment is first energised and the signal has indicated that, following the procedures detailed in paragraph 5.2.21.4. above, no specified failures (or defects) have been identified; and"
+                    },
+                    "5.2.21.5.3": {
+                        "text": "5.2.21.5.3. Non-specified faults or other information shall be indicated only by the flashing of the warning signal. However, the warning signal shall be extinguished by the time when the vehicle first exceeds 10 km/h."
+                    }
+                }
+            },
+            "5.2.22": {
+                "text": "5.2.22. Generation of a braking signal to illuminate stop lamps.",
+                "5.2.22.1": {
+                    "text": "5.2.22.1. Activation of the service braking system by the driver shall generate a signal that will be used to illuminate the stop lamps."
+                },
+                "5.2.22.2": {
+                    "text": "5.2.22.2. Requirements for vehicles equipped with automatically commanded braking and/or regenerative braking which produce a retarding force (e.g. upon release of the accelerator control).6 Deceleration by automatically commanded braking and/or regenerative braking ≤ 1.3 m/s2 > 1.3 m/s2 May generate Shall generate the signal the signal 6 At the time of type approval, compliance with this requirement shall be confirmed by the vehicle manufacturer. Once generated, the signal shall be kept as long as a deceleration demand persists. However, the signal may be suppressed at standstill or when the deceleration demand falls below 1.3 m/s² or that value which generated the signal, whichever is lower. An appropriate measure (e.g. switch-off-hysteresis, averaging, time delay) shall be implemented in order to avoid fast changes of the signal resulting in flickering of the stop lamps. (updated according to Supplement 4 to the 01 series of amendments, date of entry into force: 4 January 2023)"
+                },
+                "5.2.22.3": {
+                    "text": "5.2.22.3. Activation of part of the service braking system by \"selective braking\" or by functions whose primary intention is not to decelerate the vehicle (e.g. slight actuation of the friction brakes to clean the discs) shall not generate the signal mentioned above.6"
+                },
+                "5.2.22.4": {
+                    "text": "5.2.22.4. The signal shall not be generated when retardation is solely produced by the natural braking effect of the engine, air-/rolling resistance and/or road slope. (paragraphs 5.2.22.2 – 5.2.22.4 updated according to Supplement 3 to the 01 series of amendments, date of entry into force: 07.01.2021)"
+                }
+            },
+            "5.2.23": {
+                "text": "5.2.23. When a vehicle is equipped with the means to indicate emergency braking, activation and de-activation of the emergency braking signal shall only be generated by the application of the service braking system when the following conditions are fulfilled:8",
+                "5.2.23.1": {
+                    "text": "5.2.23.1. The signal shall not be activated when the vehicle deceleration is below 6 m/s² but it may be generated at any deceleration at or above this value, the actual value being defined by the vehicle manufacturer. below 2.5 m/s²."
+                },
+                "5.2.23.2": {
+                    "text": "5.2.23.2. The following conditions may also be used: (a) The signal may be generated from a prediction of the vehicle deceleration resulting from the braking demand respecting the activation and de-activation thresholds defined in paragraph 5.2.23.1. above;  or (b) The signal may be activated at a speed above 50 km/h when the antilock system is fully cycling (as defined in paragraph 2. of Annex 6). cycling."
+                }
+            },
+            "5.2.24": {
+                "text": "5.2.24. Power-driven vehicles of category M1 and N1 equipped with temporary-use spare wheels/tyres shall satisfy the relevant technical requirements of Annex 3 to UN Regulation No. 64."
+            }
+        },
+        "5.3": {
+            "text": "5.3. Additional checks disconnected, with the vehicle laden and unladen:",
+            "5.3.1": {
+                "text": "5.3.1. The wheels directly controlled by an anti-lock system shall not lock when the full force7 is suddenly applied on the control device, on the road surfaces specified in paragraph 5.2.2. of this annex, at an initial speed of v = 40 km/h and at a high initial speed v = 0.8 vmax  120 km/h;8"
+            },
+            "5.3.2": {
+                "text": "5.3.2. When an axle passes from a high-adhesion surface (kH) to a low-adhesion surface (kL), where kH  0.5 and kH / kL  2,9 with the full force7 applied on the control device, the directly controlled wheels shall not lock. The running speed and the instant of applying the brakes shall be so calculated that, with the anti-lock system fully cycling on the high-adhesion surface, the passage from one surface to the other is made at high and at low speed, under the conditions laid down in paragraph 5.3.1.;8"
+            },
+            "5.3.3": {
+                "text": "5.3.3. When a vehicle passes from a low-adhesion surface (kL) to a high-adhesion surface (kH) where kH  0.5 and kH / kL  2,9 with the full force7 applied on the control device, the deceleration of the vehicle shall rise to the appropriate high value within a reasonable time and the vehicle shall not deviate from its initial course. The running speed and the instant of applying the brake shall be so calculated that, with the anti-lock system fully cycling on the low-adhesion surface, the passage from one surface to the other occurs at approximately 50 km/h;"
+            },
+            "5.3.4": {
+                "text": "5.3.4. The provisions of this paragraph shall only apply to vehicles equipped with anti-lock systems of categories 1 or 2. When the right and left wheels of the vehicle are situated on surfaces with differing coefficients of adhesion (kH and kL), where kH  0.5 and kH / kL  2,9 the directly controlled wheels shall not lock when the full force7 is suddenly applied on the control device at a speed of 50 km/h;"
+            },
+            "5.3.5": {
+                "text": "5.3.5. Furthermore, laden vehicles equipped with anti-lock systems of category 1 shall, under the conditions of paragraph 5.3.4. of this annex satisfy the prescribed braking rate in Appendix 3 to this annex;"
+            },
+            "5.3.6": {
+                "text": "5.3.6. However, in the tests provided in paragraphs 5.3.1., 5.3.2., 5.3.3., 5.3.4. and 5.3.5. of this annex, brief periods of wheel-locking shall be allowed. Furthermore, wheel-locking is permitted when the vehicle speed is less than 15 km/h; likewise, locking of indirectly controlled wheels is permitted at any speed, but stability and steerability shall not be affected and the vehicle shall not exceed a yaw angle of 15° or deviate from a 3.5 m wide lane;"
+            },
+            "5.3.7": {
+                "text": "5.3.7. During the tests provided in paragraphs 5.3.4. and 5.3.5. of this annex, steering correction is permitted, if the angular rotation of the steering control is within 120° during the initial 2 seconds, and not more than 240° in all. Furthermore, at the beginning of these tests the longitudinal median plane of the vehicle shall pass over the boundary between the high- and low-adhesion surfaces and during these tests no part of the outer tyres shall cross this boundary.6 with the anti-lock system operative (zAL) and the coefficient of adhesion (k) the  - value measured on axle i (in the case of a motor vehicle with a i category 3 anti-lock system) the  - value on the high-adhesion surface H the  - value on the low-adhesion surface L normal reaction of road surface under dynamic conditions with the anti-lock Fdyn system operative normal reaction of road surface on axle i under static conditions Fi total normal static reaction of road surface on all wheels of power-driven FM vehicle axles of the power-driven vehicle of the power-driven vehicle acceleration due to gravity (9.81 m/s2) g Technical Service conducting the approval test k - factor of one front axle kf k - value determined on the high-adhesion surface kH k - value determined on axle i for a vehicle with a category 3 anti-lock ki system k - value determined on the low-adhesion surface kL value of adhesion for 100 per cent slip klock k - factor of the power-driven vehicle kM maximum value of the curve \"adhesion versus slip\" kpeak k - factor of one rear axle kr mean value of t tm minimum value of t tmin braking rate z of the vehicle with the anti-lock system operative zAL mean braking rate zm maximum value of z zmax"
+            }
+        }
+    },
+    "6": {
+        "text": "6. Conformity of production",
+        "6.1": {
+            "text": "6.1. When checking vehicles for conformity of production, the Technical Services should follow the same procedures as for type-approval."
+        },
+        "6.2": {
+            "text": "6.2. The requirements shall also be the same as for type-approval, except that in the test described in paragraph 5.2.(a)(ii) of this annex, the rear axle curve shall lie below the line z = 0.9 k for all braking rates between 0.15 and 0.8 (instead of meeting the requirement in paragraph 3.1.(A) (see Diagram 2)."
+        }
+    },
+    "7": {
+        "text": "7. Brake circuit configuration (e.g. front/rear or diagonal split) .......................................",
+        "7.1": {
+            "text": "7.1. Brake linings",
+            "7.1.1": {
+                "text": "7.1.1. Brake linings tested to all relevant prescriptions of Annex 3 ......................................."
+            },
+            "7.1.2": {
+                "text": "7.1.2. Alternative brake linings tested in Annex 7 ................................................................."
+            }
+        },
+        "7.2": {
+            "text": "7.2. Brake disc and drums",
+            "7.2.1": {
+                "text": "7.2.1. Identification code of brake discs covered by the braking system approval ................"
+            },
+            "7.2.2": {
+                "text": "7.2.2. Identification code of brake drums covered by the braking system approval .............."
+            }
+        },
+        "7.3": {
+            "text": "7.3. The Type Approval Authority issuing the extension of approval shall assign a series of numbers to each communication form drawn up for such an extension. the Agreement, Schedule 1 (E/ECE/TRANS/505/Rev.3) with the following requirements:"
+        }
+    },
+    "8": {
+        "8.1": {
+            "text": "8.1. A vehicle approved to this Regulation shall be so manufactured as to conform to the type approved by meeting the requirements set forth in paragraph 5. above;"
+        },
+        "8.2": {
+            "text": "8.2. The Type Approval Authority which has granted type approval may at any time verify the conformity control methods applied in each production facility. The normal frequency of these verifications shall be once every two years."
+        },
+        "text": "8. Declaration of which is the secondary braking system ................................................."
+    },
+    "9": {
+        "9.1": {
+            "text": "9.1. Adjustment specifications of the load sensing valve....................................................."
+        },
+        "9.2": {
+            "text": "9.2. Setting of pressure valve ..............................................................................................."
+        },
+        "text": "9. Specifications of brake valves (if applicable) ..............................................................."
+    },
+    "10": {
+        "text": "10. Designed brake force distribution ................................................................................."
+    },
+    "12": {
+        "text": "12. Master cylinder type and size ........................................................................................",
+        "12.1": {
+            "text": "12.1. Temporary-use spare wheel / tyre dimensions ............................................................."
+        },
+        "12.2": {
+            "text": "12.2. Vehicle meets the technical requirements of Annex 3 to UN Regulation No. 64:"
+        },
+        "12.3": {
+            "text": "12.3. As from 1 September 2018, Contracting Parties applying this Regulation shall grant type approvals only if the vehicle type to be approved meets the requirements of this Regulation as amended by the 01 series of amendments."
+        },
+        "12.4": {
+            "text": "12.4. Contracting Parties applying this Regulation shall not refuse to grant extensions of type approvals for existing types, regardless of whether they are fitted with a Vehicle Stability Function (as defined in UN Regulation No. 13) or ESC and BAS or not, on the basis of the provisions valid at the time of the original approval."
+        }
+    },
+    "11": {
+        "text": "11. Specification of brake ...................................................................................................",
+        "11.1": {
+            "text": "11.1. Disc brake type (e.g. number of pistons with diameter(s), ventilated or solid"
+        },
+        "11.2": {
+            "text": "11.2. Drum brake type (e.g. duo servo, with piston size and drum dimensions) ..................."
+        },
+        "11.3": {
+            "text": "11.3. In case of compressed air brake systems, e.g. type and size of chambers,"
+        }
+    },
+    "13": {
+        "text": "13. Booster type and size ...................................................................................................."
+    },
+    "14": {
+        "text": "14. Brief description of braking equipment ......................................................................."
+    },
+    "15": {
+        "text": "15. Mass of vehicle when tested:"
+    },
+    "16": {
+        "text": "16. Result of the tests:",
+        "16.1": {
+            "text": "16.1. Type-0 tests: ................................................................................................................."
+        },
+        "16.2": {
+            "text": "16.2. Type-0 tests: ................................................................................................................."
+        },
+        "16.3": {
+            "text": "16.3. Type-I tests: ................................................................................................................."
+        },
+        "16.4": {
+            "text": "16.4. Dynamic parking brake performance ..........................................................................."
+        }
+    },
+    "17": {
+        "text": "17. Result of the Annex 5 performance tests ....................................................................."
+    },
+    "18": {
+        "text": "18. Vehicle is / is not2 equipped to tow a trailer with electrical braking systems"
+    },
+    "19": {
+        "text": "19. Vehicle is / is not2 equipped with an anti-lock system",
+        "19.1": {
+            "text": "19.1. The vehicle fulfils the requirements of Annex 6: Yes / No2"
+        },
+        "19.2": {
+            "text": "19.2. Category of anti-lock system: category 1 / 2 / 32"
+        }
+    },
+    "20": {
+        "text": "20. Adequate documentation according to Annex 8 was supplied in respect of the"
+    },
+    "21": {
+        "text": "21. Vehicle submitted for approval on ..............................................................................."
+    },
+    "22": {
+        "text": "22. Technical Service responsible for conducting approval ..............................................."
+    },
+    "23": {
+        "text": "23. Date of report issued by that Service ..........................................................................."
+    },
+    "24": {
+        "text": "24. Number of report issued by that Service ......................................................................"
+    },
+    "25": {
+        "text": "25. Approval granted / refused / extended / withdrawn2"
+    },
+    "26": {
+        "text": "26. Position of approval mark on the vehicle ....................................................................."
+    },
+    "27": {
+        "text": "27. Place ............................................................................................................................."
+    },
+    "28": {
+        "text": "28. Date .............................................................................................................................."
+    },
+    "29": {
+        "text": "29. Signature ......................................................................................................................"
+    },
+    "30": {
+        "text": "30. The summary referred to in paragraph 4.3. of this Regulation is annexed"
+    }
+}

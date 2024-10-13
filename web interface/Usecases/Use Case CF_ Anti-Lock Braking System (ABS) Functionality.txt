@@ -1,0 +1,46 @@
+I-6416
+
+OC Subsection: [F-3688] New OC Subsection: 06 Driving / Braking Systems
+
+Description:
+
+Use Case: Anti-Lock Braking System (ABS) Functionality
+
+Preconditions:
+
+1.  The vehicle is running on the icy or watery road.
+
+2.  The ABS is activated in the background normally.
+
+Main Scenario:
+
+1.  The driver presses the brake pedal in_23 forcefully.
+
+2.  The vehicle slides and the ABS controls brake force to reduce
+    slipping.
+
+3.  The driver will get feedback from brake pedal out_23.
+
+Postconditions:
+
+1.  ABS shorten the braking distance and ensure the steering stability
+    of the vehicle.
+
+Alternative scenario:
+
+A. When ABS functions malfunction, there is an alert display on out_1,
+out_2, out_5, out_14, out_25.
+
+Priority: Normal
+
+Type: Use Case CF
+
+Document
+
+Caption: operational_concept.Profile - 383201 Profiles settings
+
+Overall estimation:
+
+Requirement type: Profile
+
+Type: Profile
