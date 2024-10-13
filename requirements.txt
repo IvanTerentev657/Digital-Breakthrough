@@ -6,3 +6,5 @@ pdfquery
 requests
 sentence_transformers
 thefuzz
+transformers==4.45.2
+torch==2.4.1
